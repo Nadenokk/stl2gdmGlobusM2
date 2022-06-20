@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="schetchik-Silicon_v0" unit="mm" x="7072.528809" y="229.324295" z="1649.0"/>
+        <position name="schetchik-Silicon_v1" unit="mm" x="7077.008789" y="229.017807" z="1784.0"/>
+        <position name="schetchik-Silicon_v2" unit="mm" x="7077.008789" y="229.017807" z="1649.0"/>
+        <position name="schetchik-Silicon_v3" unit="mm" x="7081.404785" y="228.104202" z="1784.0"/>
+        <position name="schetchik-Silicon_v4" unit="mm" x="7081.404785" y="228.104202" z="1649.0"/>
+        <position name="schetchik-Silicon_v5" unit="mm" x="7085.63623" y="226.600494" z="1784.0"/>
+        <position name="schetchik-Silicon_v6" unit="mm" x="7085.63623" y="226.600494" z="1649.0"/>
+        <position name="schetchik-Silicon_v7" unit="mm" x="7089.623047" y="224.534698" z="1784.0"/>
+        <position name="schetchik-Silicon_v8" unit="mm" x="7089.623047" y="224.534698" z="1649.0"/>
+        <position name="schetchik-Silicon_v9" unit="mm" x="7093.291992" y="221.945206" z="1784.0"/>
+        <position name="schetchik-Silicon_v10" unit="mm" x="7093.291992" y="221.945206" z="1649.0"/>
+        <position name="schetchik-Silicon_v11" unit="mm" x="7096.574219" y="218.880295" z="1784.0"/>
+        <position name="schetchik-Silicon_v12" unit="mm" x="7096.574219" y="218.880295" z="1649.0"/>
+        <position name="schetchik-Silicon_v13" unit="mm" x="7099.407227" y="215.397003" z="1784.0"/>
+        <position name="schetchik-Silicon_v14" unit="mm" x="7099.407227" y="215.397003" z="1649.0"/>
+        <position name="schetchik-Silicon_v15" unit="mm" x="7101.740234" y="211.560394" z="1784.0"/>
+        <position name="schetchik-Silicon_v16" unit="mm" x="7101.740234" y="211.560394" z="1649.0"/>
+        <position name="schetchik-Silicon_v17" unit="mm" x="7103.528809" y="207.441803" z="1784.0"/>
+        <position name="schetchik-Silicon_v18" unit="mm" x="7103.528809" y="207.441803" z="1649.0"/>
+        <position name="schetchik-Silicon_v19" unit="mm" x="7104.741211" y="203.117996" z="1784.0"/>
+        <position name="schetchik-Silicon_v20" unit="mm" x="7104.741211" y="203.117996" z="1649.0"/>
+        <position name="schetchik-Silicon_v21" unit="mm" x="7105.352051" y="198.669403" z="1784.0"/>
+        <position name="schetchik-Silicon_v22" unit="mm" x="7105.352051" y="198.669403" z="1649.0"/>
+        <position name="schetchik-Silicon_v23" unit="mm" x="7105.352051" y="194.179092" z="1784.0"/>
+        <position name="schetchik-Silicon_v24" unit="mm" x="7105.352051" y="194.179092" z="1649.0"/>
+        <position name="schetchik-Silicon_v25" unit="mm" x="7104.741211" y="189.730606" z="1784.0"/>
+        <position name="schetchik-Silicon_v26" unit="mm" x="7104.741211" y="189.730606" z="1649.0"/>
+        <position name="schetchik-Silicon_v27" unit="mm" x="7103.528809" y="185.406693" z="1784.0"/>
+        <position name="schetchik-Silicon_v28" unit="mm" x="7103.528809" y="185.406693" z="1649.0"/>
+        <position name="schetchik-Silicon_v29" unit="mm" x="7101.740234" y="181.288101" z="1784.0"/>
+        <position name="schetchik-Silicon_v30" unit="mm" x="7101.740234" y="181.288101" z="1649.0"/>
+        <position name="schetchik-Silicon_v31" unit="mm" x="7099.407227" y="177.451508" z="1784.0"/>
+        <position name="schetchik-Silicon_v32" unit="mm" x="7099.407227" y="177.451508" z="1649.0"/>
+        <position name="schetchik-Silicon_v33" unit="mm" x="7096.574219" y="173.968307" z="1784.0"/>
+        <position name="schetchik-Silicon_v34" unit="mm" x="7096.574219" y="173.968307" z="1649.0"/>
+        <position name="schetchik-Silicon_v35" unit="mm" x="7093.291992" y="170.903397" z="1784.0"/>
+        <position name="schetchik-Silicon_v36" unit="mm" x="7093.291992" y="170.903397" z="1649.0"/>
+        <position name="schetchik-Silicon_v37" unit="mm" x="7089.623047" y="168.313904" z="1784.0"/>
+        <position name="schetchik-Silicon_v38" unit="mm" x="7089.623047" y="168.313904" z="1649.0"/>
+        <position name="schetchik-Silicon_v39" unit="mm" x="7085.63623" y="166.248001" z="1784.0"/>
+        <position name="schetchik-Silicon_v40" unit="mm" x="7085.63623" y="166.248001" z="1649.0"/>
+        <position name="schetchik-Silicon_v41" unit="mm" x="7081.404785" y="164.744293" z="1784.0"/>
+        <position name="schetchik-Silicon_v42" unit="mm" x="7081.404785" y="164.744293" z="1649.0"/>
+        <position name="schetchik-Silicon_v43" unit="mm" x="7077.008789" y="163.830704" z="1784.0"/>
+        <position name="schetchik-Silicon_v44" unit="mm" x="7077.008789" y="163.830704" z="1649.0"/>
+        <position name="schetchik-Silicon_v45" unit="mm" x="7072.528809" y="163.524307" z="1784.0"/>
+        <position name="schetchik-Silicon_v46" unit="mm" x="7072.528809" y="163.524307" z="1649.0"/>
+        <position name="schetchik-Silicon_v47" unit="mm" x="7068.048828" y="163.830704" z="1784.0"/>
+        <position name="schetchik-Silicon_v48" unit="mm" x="7068.048828" y="163.830704" z="1649.0"/>
+        <position name="schetchik-Silicon_v49" unit="mm" x="7063.652832" y="164.744293" z="1784.0"/>
+        <position name="schetchik-Silicon_v50" unit="mm" x="7063.652832" y="164.744293" z="1649.0"/>
+        <position name="schetchik-Silicon_v51" unit="mm" x="7059.421875" y="166.248001" z="1784.0"/>
+        <position name="schetchik-Silicon_v52" unit="mm" x="7059.421875" y="166.248001" z="1649.0"/>
+        <position name="schetchik-Silicon_v53" unit="mm" x="7055.435059" y="168.313904" z="1784.0"/>
+        <position name="schetchik-Silicon_v54" unit="mm" x="7055.435059" y="168.313904" z="1649.0"/>
+        <position name="schetchik-Silicon_v55" unit="mm" x="7051.766113" y="170.903397" z="1784.0"/>
+        <position name="schetchik-Silicon_v56" unit="mm" x="7051.766113" y="170.903397" z="1649.0"/>
+        <position name="schetchik-Silicon_v57" unit="mm" x="7048.484863" y="173.968307" z="1784.0"/>
+        <position name="schetchik-Silicon_v58" unit="mm" x="7048.484863" y="173.968307" z="1649.0"/>
+        <position name="schetchik-Silicon_v59" unit="mm" x="7045.650879" y="177.451508" z="1784.0"/>
+        <position name="schetchik-Silicon_v60" unit="mm" x="7045.650879" y="177.451508" z="1649.0"/>
+        <position name="schetchik-Silicon_v61" unit="mm" x="7043.317871" y="181.288101" z="1784.0"/>
+        <position name="schetchik-Silicon_v62" unit="mm" x="7043.317871" y="181.288101" z="1649.0"/>
+        <position name="schetchik-Silicon_v63" unit="mm" x="7041.528809" y="185.406693" z="1784.0"/>
+        <position name="schetchik-Silicon_v64" unit="mm" x="7041.528809" y="185.406693" z="1649.0"/>
+        <position name="schetchik-Silicon_v65" unit="mm" x="7040.316895" y="189.730606" z="1784.0"/>
+        <position name="schetchik-Silicon_v66" unit="mm" x="7040.316895" y="189.730606" z="1649.0"/>
+        <position name="schetchik-Silicon_v67" unit="mm" x="7039.706055" y="194.179092" z="1784.0"/>
+        <position name="schetchik-Silicon_v68" unit="mm" x="7039.706055" y="194.179092" z="1649.0"/>
+        <position name="schetchik-Silicon_v69" unit="mm" x="7039.706055" y="198.669403" z="1784.0"/>
+        <position name="schetchik-Silicon_v70" unit="mm" x="7039.706055" y="198.669403" z="1649.0"/>
+        <position name="schetchik-Silicon_v71" unit="mm" x="7040.316895" y="203.117996" z="1784.0"/>
+        <position name="schetchik-Silicon_v72" unit="mm" x="7040.316895" y="203.117996" z="1649.0"/>
+        <position name="schetchik-Silicon_v73" unit="mm" x="7041.528809" y="207.441803" z="1784.0"/>
+        <position name="schetchik-Silicon_v74" unit="mm" x="7041.528809" y="207.441803" z="1649.0"/>
+        <position name="schetchik-Silicon_v75" unit="mm" x="7043.317871" y="211.560394" z="1784.0"/>
+        <position name="schetchik-Silicon_v76" unit="mm" x="7043.317871" y="211.560394" z="1649.0"/>
+        <position name="schetchik-Silicon_v77" unit="mm" x="7045.650879" y="215.397003" z="1784.0"/>
+        <position name="schetchik-Silicon_v78" unit="mm" x="7045.650879" y="215.397003" z="1649.0"/>
+        <position name="schetchik-Silicon_v79" unit="mm" x="7048.484863" y="218.880295" z="1784.0"/>
+        <position name="schetchik-Silicon_v80" unit="mm" x="7048.484863" y="218.880295" z="1649.0"/>
+        <position name="schetchik-Silicon_v81" unit="mm" x="7051.766113" y="221.945206" z="1784.0"/>
+        <position name="schetchik-Silicon_v82" unit="mm" x="7051.766113" y="221.945206" z="1649.0"/>
+        <position name="schetchik-Silicon_v83" unit="mm" x="7055.435059" y="224.534698" z="1784.0"/>
+        <position name="schetchik-Silicon_v84" unit="mm" x="7055.435059" y="224.534698" z="1649.0"/>
+        <position name="schetchik-Silicon_v85" unit="mm" x="7059.421875" y="226.600494" z="1784.0"/>
+        <position name="schetchik-Silicon_v86" unit="mm" x="7059.421875" y="226.600494" z="1649.0"/>
+        <position name="schetchik-Silicon_v87" unit="mm" x="7063.652832" y="228.104202" z="1784.0"/>
+        <position name="schetchik-Silicon_v88" unit="mm" x="7063.652832" y="228.104202" z="1649.0"/>
+        <position name="schetchik-Silicon_v89" unit="mm" x="7068.048828" y="229.017807" z="1784.0"/>
+        <position name="schetchik-Silicon_v90" unit="mm" x="7068.048828" y="229.017807" z="1649.0"/>
+        <position name="schetchik-Silicon_v91" unit="mm" x="7072.528809" y="229.324295" z="1784.0"/>
+        <position name="schetchik-Silicon_v92" unit="mm" x="7042.628906" y="196.424301" z="1784.0"/>
+        <position name="schetchik-Silicon_v93" unit="mm" x="7042.933105" y="192.169006" z="1784.0"/>
+        <position name="schetchik-Silicon_v94" unit="mm" x="7043.839844" y="188.000504" z="1784.0"/>
+        <position name="schetchik-Silicon_v95" unit="mm" x="7045.331055" y="184.003403" z="1784.0"/>
+        <position name="schetchik-Silicon_v96" unit="mm" x="7047.375977" y="180.259094" z="1784.0"/>
+        <position name="schetchik-Silicon_v97" unit="mm" x="7049.932129" y="176.843903" z="1784.0"/>
+        <position name="schetchik-Silicon_v98" unit="mm" x="7052.949219" y="173.827393" z="1784.0"/>
+        <position name="schetchik-Silicon_v99" unit="mm" x="7056.36377" y="171.270798" z="1784.0"/>
+        <position name="schetchik-Silicon_v100" unit="mm" x="7060.10791" y="169.226303" z="1784.0"/>
+        <position name="schetchik-Silicon_v101" unit="mm" x="7064.10498" y="167.735397" z="1784.0"/>
+        <position name="schetchik-Silicon_v102" unit="mm" x="7068.273926" y="166.828598" z="1784.0"/>
+        <position name="schetchik-Silicon_v103" unit="mm" x="7072.528809" y="166.524307" z="1784.0"/>
+        <position name="schetchik-Silicon_v104" unit="mm" x="7076.78418" y="166.828598" z="1784.0"/>
+        <position name="schetchik-Silicon_v105" unit="mm" x="7080.953125" y="167.735397" z="1784.0"/>
+        <position name="schetchik-Silicon_v106" unit="mm" x="7084.950195" y="169.226303" z="1784.0"/>
+        <position name="schetchik-Silicon_v107" unit="mm" x="7088.693848" y="171.270798" z="1784.0"/>
+        <position name="schetchik-Silicon_v108" unit="mm" x="7092.108887" y="173.827393" z="1784.0"/>
+        <position name="schetchik-Silicon_v109" unit="mm" x="7095.125977" y="176.843903" z="1784.0"/>
+        <position name="schetchik-Silicon_v110" unit="mm" x="7097.683105" y="180.259094" z="1784.0"/>
+        <position name="schetchik-Silicon_v111" unit="mm" x="7099.727051" y="184.003403" z="1784.0"/>
+        <position name="schetchik-Silicon_v112" unit="mm" x="7101.217773" y="188.000504" z="1784.0"/>
+        <position name="schetchik-Silicon_v113" unit="mm" x="7102.125" y="192.169006" z="1784.0"/>
+        <position name="schetchik-Silicon_v114" unit="mm" x="7102.429199" y="196.424301" z="1784.0"/>
+        <position name="schetchik-Silicon_v115" unit="mm" x="7102.125" y="200.679504" z="1784.0"/>
+        <position name="schetchik-Silicon_v116" unit="mm" x="7101.217773" y="204.848099" z="1784.0"/>
+        <position name="schetchik-Silicon_v117" unit="mm" x="7099.727051" y="208.8452" z="1784.0"/>
+        <position name="schetchik-Silicon_v118" unit="mm" x="7097.683105" y="212.589401" z="1784.0"/>
+        <position name="schetchik-Silicon_v119" unit="mm" x="7095.125977" y="216.004593" z="1784.0"/>
+        <position name="schetchik-Silicon_v120" unit="mm" x="7092.108887" y="219.021194" z="1784.0"/>
+        <position name="schetchik-Silicon_v121" unit="mm" x="7088.693848" y="221.577698" z="1784.0"/>
+        <position name="schetchik-Silicon_v122" unit="mm" x="7084.950195" y="223.622299" z="1784.0"/>
+        <position name="schetchik-Silicon_v123" unit="mm" x="7080.953125" y="225.113098" z="1784.0"/>
+        <position name="schetchik-Silicon_v124" unit="mm" x="7076.78418" y="226.019897" z="1784.0"/>
+        <position name="schetchik-Silicon_v125" unit="mm" x="7072.528809" y="226.324295" z="1784.0"/>
+        <position name="schetchik-Silicon_v126" unit="mm" x="7068.273926" y="226.019897" z="1784.0"/>
+        <position name="schetchik-Silicon_v127" unit="mm" x="7064.10498" y="225.113098" z="1784.0"/>
+        <position name="schetchik-Silicon_v128" unit="mm" x="7060.10791" y="223.622299" z="1784.0"/>
+        <position name="schetchik-Silicon_v129" unit="mm" x="7056.36377" y="221.577698" z="1784.0"/>
+        <position name="schetchik-Silicon_v130" unit="mm" x="7052.949219" y="219.021194" z="1784.0"/>
+        <position name="schetchik-Silicon_v131" unit="mm" x="7049.932129" y="216.004593" z="1784.0"/>
+        <position name="schetchik-Silicon_v132" unit="mm" x="7047.375977" y="212.589401" z="1784.0"/>
+        <position name="schetchik-Silicon_v133" unit="mm" x="7045.331055" y="208.8452" z="1784.0"/>
+        <position name="schetchik-Silicon_v134" unit="mm" x="7043.839844" y="204.848099" z="1784.0"/>
+        <position name="schetchik-Silicon_v135" unit="mm" x="7042.933105" y="200.679504" z="1784.0"/>
+        <position name="schetchik-Silicon_v136" unit="mm" x="7072.528809" y="196.424301" z="1649.0"/>
+        <position name="schetchik-Silicon_v137" unit="mm" x="7072.528809" y="166.524307" z="1652.0"/>
+        <position name="schetchik-Silicon_v138" unit="mm" x="7076.78418" y="166.828598" z="1652.0"/>
+        <position name="schetchik-Silicon_v139" unit="mm" x="7080.953125" y="167.735397" z="1652.0"/>
+        <position name="schetchik-Silicon_v140" unit="mm" x="7084.950195" y="169.226303" z="1652.0"/>
+        <position name="schetchik-Silicon_v141" unit="mm" x="7088.693848" y="171.270798" z="1652.0"/>
+        <position name="schetchik-Silicon_v142" unit="mm" x="7092.108887" y="173.827393" z="1652.0"/>
+        <position name="schetchik-Silicon_v143" unit="mm" x="7095.125977" y="176.843903" z="1652.0"/>
+        <position name="schetchik-Silicon_v144" unit="mm" x="7097.683105" y="180.259094" z="1652.0"/>
+        <position name="schetchik-Silicon_v145" unit="mm" x="7099.727051" y="184.003403" z="1652.0"/>
+        <position name="schetchik-Silicon_v146" unit="mm" x="7101.217773" y="188.000504" z="1652.0"/>
+        <position name="schetchik-Silicon_v147" unit="mm" x="7102.125" y="192.169006" z="1652.0"/>
+        <position name="schetchik-Silicon_v148" unit="mm" x="7102.429199" y="196.424301" z="1652.0"/>
+        <position name="schetchik-Silicon_v149" unit="mm" x="7102.125" y="200.679504" z="1652.0"/>
+        <position name="schetchik-Silicon_v150" unit="mm" x="7101.217773" y="204.848099" z="1652.0"/>
+        <position name="schetchik-Silicon_v151" unit="mm" x="7099.727051" y="208.8452" z="1652.0"/>
+        <position name="schetchik-Silicon_v152" unit="mm" x="7097.683105" y="212.589401" z="1652.0"/>
+        <position name="schetchik-Silicon_v153" unit="mm" x="7095.125977" y="216.004593" z="1652.0"/>
+        <position name="schetchik-Silicon_v154" unit="mm" x="7092.108887" y="219.021194" z="1652.0"/>
+        <position name="schetchik-Silicon_v155" unit="mm" x="7088.693848" y="221.577698" z="1652.0"/>
+        <position name="schetchik-Silicon_v156" unit="mm" x="7084.950195" y="223.622299" z="1652.0"/>
+        <position name="schetchik-Silicon_v157" unit="mm" x="7080.953125" y="225.113098" z="1652.0"/>
+        <position name="schetchik-Silicon_v158" unit="mm" x="7076.78418" y="226.019897" z="1652.0"/>
+        <position name="schetchik-Silicon_v159" unit="mm" x="7072.528809" y="226.324295" z="1652.0"/>
+        <position name="schetchik-Silicon_v160" unit="mm" x="7068.273926" y="226.019897" z="1652.0"/>
+        <position name="schetchik-Silicon_v161" unit="mm" x="7064.10498" y="225.113098" z="1652.0"/>
+        <position name="schetchik-Silicon_v162" unit="mm" x="7060.10791" y="223.622299" z="1652.0"/>
+        <position name="schetchik-Silicon_v163" unit="mm" x="7056.36377" y="221.577698" z="1652.0"/>
+        <position name="schetchik-Silicon_v164" unit="mm" x="7052.949219" y="219.021194" z="1652.0"/>
+        <position name="schetchik-Silicon_v165" unit="mm" x="7049.932129" y="216.004593" z="1652.0"/>
+        <position name="schetchik-Silicon_v166" unit="mm" x="7047.375977" y="212.589401" z="1652.0"/>
+        <position name="schetchik-Silicon_v167" unit="mm" x="7045.331055" y="208.8452" z="1652.0"/>
+        <position name="schetchik-Silicon_v168" unit="mm" x="7043.839844" y="204.848099" z="1652.0"/>
+        <position name="schetchik-Silicon_v169" unit="mm" x="7042.933105" y="200.679504" z="1652.0"/>
+        <position name="schetchik-Silicon_v170" unit="mm" x="7042.628906" y="196.424301" z="1652.0"/>
+        <position name="schetchik-Silicon_v171" unit="mm" x="7042.933105" y="192.169006" z="1652.0"/>
+        <position name="schetchik-Silicon_v172" unit="mm" x="7043.839844" y="188.000504" z="1652.0"/>
+        <position name="schetchik-Silicon_v173" unit="mm" x="7045.331055" y="184.003403" z="1652.0"/>
+        <position name="schetchik-Silicon_v174" unit="mm" x="7047.375977" y="180.259094" z="1652.0"/>
+        <position name="schetchik-Silicon_v175" unit="mm" x="7049.932129" y="176.843903" z="1652.0"/>
+        <position name="schetchik-Silicon_v176" unit="mm" x="7052.949219" y="173.827393" z="1652.0"/>
+        <position name="schetchik-Silicon_v177" unit="mm" x="7056.36377" y="171.270798" z="1652.0"/>
+        <position name="schetchik-Silicon_v178" unit="mm" x="7060.10791" y="169.226303" z="1652.0"/>
+        <position name="schetchik-Silicon_v179" unit="mm" x="7064.10498" y="167.735397" z="1652.0"/>
+        <position name="schetchik-Silicon_v180" unit="mm" x="7068.273926" y="166.828598" z="1652.0"/>
+        <position name="schetchik-Silicon_v181" unit="mm" x="7072.528809" y="196.424301" z="1652.0"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="schetchik-Silicon-SOL">
+             <triangular vertex1="schetchik-Silicon_v0" vertex2="schetchik-Silicon_v1" vertex3="schetchik-Silicon_v2"/>
+             <triangular vertex1="schetchik-Silicon_v2" vertex2="schetchik-Silicon_v1" vertex3="schetchik-Silicon_v3"/>
+             <triangular vertex1="schetchik-Silicon_v2" vertex2="schetchik-Silicon_v3" vertex3="schetchik-Silicon_v4"/>
+             <triangular vertex1="schetchik-Silicon_v4" vertex2="schetchik-Silicon_v3" vertex3="schetchik-Silicon_v5"/>
+             <triangular vertex1="schetchik-Silicon_v4" vertex2="schetchik-Silicon_v5" vertex3="schetchik-Silicon_v6"/>
+             <triangular vertex1="schetchik-Silicon_v6" vertex2="schetchik-Silicon_v5" vertex3="schetchik-Silicon_v7"/>
+             <triangular vertex1="schetchik-Silicon_v6" vertex2="schetchik-Silicon_v7" vertex3="schetchik-Silicon_v8"/>
+             <triangular vertex1="schetchik-Silicon_v8" vertex2="schetchik-Silicon_v7" vertex3="schetchik-Silicon_v9"/>
+             <triangular vertex1="schetchik-Silicon_v8" vertex2="schetchik-Silicon_v9" vertex3="schetchik-Silicon_v10"/>
+             <triangular vertex1="schetchik-Silicon_v10" vertex2="schetchik-Silicon_v9" vertex3="schetchik-Silicon_v11"/>
+             <triangular vertex1="schetchik-Silicon_v10" vertex2="schetchik-Silicon_v11" vertex3="schetchik-Silicon_v12"/>
+             <triangular vertex1="schetchik-Silicon_v12" vertex2="schetchik-Silicon_v11" vertex3="schetchik-Silicon_v13"/>
+             <triangular vertex1="schetchik-Silicon_v12" vertex2="schetchik-Silicon_v13" vertex3="schetchik-Silicon_v14"/>
+             <triangular vertex1="schetchik-Silicon_v14" vertex2="schetchik-Silicon_v13" vertex3="schetchik-Silicon_v15"/>
+             <triangular vertex1="schetchik-Silicon_v14" vertex2="schetchik-Silicon_v15" vertex3="schetchik-Silicon_v16"/>
+             <triangular vertex1="schetchik-Silicon_v16" vertex2="schetchik-Silicon_v15" vertex3="schetchik-Silicon_v17"/>
+             <triangular vertex1="schetchik-Silicon_v16" vertex2="schetchik-Silicon_v17" vertex3="schetchik-Silicon_v18"/>
+             <triangular vertex1="schetchik-Silicon_v18" vertex2="schetchik-Silicon_v17" vertex3="schetchik-Silicon_v19"/>
+             <triangular vertex1="schetchik-Silicon_v18" vertex2="schetchik-Silicon_v19" vertex3="schetchik-Silicon_v20"/>
+             <triangular vertex1="schetchik-Silicon_v20" vertex2="schetchik-Silicon_v19" vertex3="schetchik-Silicon_v21"/>
+             <triangular vertex1="schetchik-Silicon_v20" vertex2="schetchik-Silicon_v21" vertex3="schetchik-Silicon_v22"/>
+             <triangular vertex1="schetchik-Silicon_v22" vertex2="schetchik-Silicon_v21" vertex3="schetchik-Silicon_v23"/>
+             <triangular vertex1="schetchik-Silicon_v22" vertex2="schetchik-Silicon_v23" vertex3="schetchik-Silicon_v24"/>
+             <triangular vertex1="schetchik-Silicon_v24" vertex2="schetchik-Silicon_v23" vertex3="schetchik-Silicon_v25"/>
+             <triangular vertex1="schetchik-Silicon_v24" vertex2="schetchik-Silicon_v25" vertex3="schetchik-Silicon_v26"/>
+             <triangular vertex1="schetchik-Silicon_v26" vertex2="schetchik-Silicon_v25" vertex3="schetchik-Silicon_v27"/>
+             <triangular vertex1="schetchik-Silicon_v26" vertex2="schetchik-Silicon_v27" vertex3="schetchik-Silicon_v28"/>
+             <triangular vertex1="schetchik-Silicon_v28" vertex2="schetchik-Silicon_v27" vertex3="schetchik-Silicon_v29"/>
+             <triangular vertex1="schetchik-Silicon_v28" vertex2="schetchik-Silicon_v29" vertex3="schetchik-Silicon_v30"/>
+             <triangular vertex1="schetchik-Silicon_v30" vertex2="schetchik-Silicon_v29" vertex3="schetchik-Silicon_v31"/>
+             <triangular vertex1="schetchik-Silicon_v30" vertex2="schetchik-Silicon_v31" vertex3="schetchik-Silicon_v32"/>
+             <triangular vertex1="schetchik-Silicon_v32" vertex2="schetchik-Silicon_v31" vertex3="schetchik-Silicon_v33"/>
+             <triangular vertex1="schetchik-Silicon_v32" vertex2="schetchik-Silicon_v33" vertex3="schetchik-Silicon_v34"/>
+             <triangular vertex1="schetchik-Silicon_v34" vertex2="schetchik-Silicon_v33" vertex3="schetchik-Silicon_v35"/>
+             <triangular vertex1="schetchik-Silicon_v34" vertex2="schetchik-Silicon_v35" vertex3="schetchik-Silicon_v36"/>
+             <triangular vertex1="schetchik-Silicon_v36" vertex2="schetchik-Silicon_v35" vertex3="schetchik-Silicon_v37"/>
+             <triangular vertex1="schetchik-Silicon_v36" vertex2="schetchik-Silicon_v37" vertex3="schetchik-Silicon_v38"/>
+             <triangular vertex1="schetchik-Silicon_v38" vertex2="schetchik-Silicon_v37" vertex3="schetchik-Silicon_v39"/>
+             <triangular vertex1="schetchik-Silicon_v38" vertex2="schetchik-Silicon_v39" vertex3="schetchik-Silicon_v40"/>
+             <triangular vertex1="schetchik-Silicon_v40" vertex2="schetchik-Silicon_v39" vertex3="schetchik-Silicon_v41"/>
+             <triangular vertex1="schetchik-Silicon_v40" vertex2="schetchik-Silicon_v41" vertex3="schetchik-Silicon_v42"/>
+             <triangular vertex1="schetchik-Silicon_v42" vertex2="schetchik-Silicon_v41" vertex3="schetchik-Silicon_v43"/>
+             <triangular vertex1="schetchik-Silicon_v42" vertex2="schetchik-Silicon_v43" vertex3="schetchik-Silicon_v44"/>
+             <triangular vertex1="schetchik-Silicon_v44" vertex2="schetchik-Silicon_v43" vertex3="schetchik-Silicon_v45"/>
+             <triangular vertex1="schetchik-Silicon_v44" vertex2="schetchik-Silicon_v45" vertex3="schetchik-Silicon_v46"/>
+             <triangular vertex1="schetchik-Silicon_v46" vertex2="schetchik-Silicon_v45" vertex3="schetchik-Silicon_v47"/>
+             <triangular vertex1="schetchik-Silicon_v46" vertex2="schetchik-Silicon_v47" vertex3="schetchik-Silicon_v48"/>
+             <triangular vertex1="schetchik-Silicon_v48" vertex2="schetchik-Silicon_v47" vertex3="schetchik-Silicon_v49"/>
+             <triangular vertex1="schetchik-Silicon_v48" vertex2="schetchik-Silicon_v49" vertex3="schetchik-Silicon_v50"/>
+             <triangular vertex1="schetchik-Silicon_v50" vertex2="schetchik-Silicon_v49" vertex3="schetchik-Silicon_v51"/>
+             <triangular vertex1="schetchik-Silicon_v50" vertex2="schetchik-Silicon_v51" vertex3="schetchik-Silicon_v52"/>
+             <triangular vertex1="schetchik-Silicon_v52" vertex2="schetchik-Silicon_v51" vertex3="schetchik-Silicon_v53"/>
+             <triangular vertex1="schetchik-Silicon_v52" vertex2="schetchik-Silicon_v53" vertex3="schetchik-Silicon_v54"/>
+             <triangular vertex1="schetchik-Silicon_v54" vertex2="schetchik-Silicon_v53" vertex3="schetchik-Silicon_v55"/>
+             <triangular vertex1="schetchik-Silicon_v54" vertex2="schetchik-Silicon_v55" vertex3="schetchik-Silicon_v56"/>
+             <triangular vertex1="schetchik-Silicon_v56" vertex2="schetchik-Silicon_v55" vertex3="schetchik-Silicon_v57"/>
+             <triangular vertex1="schetchik-Silicon_v56" vertex2="schetchik-Silicon_v57" vertex3="schetchik-Silicon_v58"/>
+             <triangular vertex1="schetchik-Silicon_v58" vertex2="schetchik-Silicon_v57" vertex3="schetchik-Silicon_v59"/>
+             <triangular vertex1="schetchik-Silicon_v58" vertex2="schetchik-Silicon_v59" vertex3="schetchik-Silicon_v60"/>
+             <triangular vertex1="schetchik-Silicon_v60" vertex2="schetchik-Silicon_v59" vertex3="schetchik-Silicon_v61"/>
+             <triangular vertex1="schetchik-Silicon_v60" vertex2="schetchik-Silicon_v61" vertex3="schetchik-Silicon_v62"/>
+             <triangular vertex1="schetchik-Silicon_v62" vertex2="schetchik-Silicon_v61" vertex3="schetchik-Silicon_v63"/>
+             <triangular vertex1="schetchik-Silicon_v62" vertex2="schetchik-Silicon_v63" vertex3="schetchik-Silicon_v64"/>
+             <triangular vertex1="schetchik-Silicon_v64" vertex2="schetchik-Silicon_v63" vertex3="schetchik-Silicon_v65"/>
+             <triangular vertex1="schetchik-Silicon_v64" vertex2="schetchik-Silicon_v65" vertex3="schetchik-Silicon_v66"/>
+             <triangular vertex1="schetchik-Silicon_v66" vertex2="schetchik-Silicon_v65" vertex3="schetchik-Silicon_v67"/>
+             <triangular vertex1="schetchik-Silicon_v66" vertex2="schetchik-Silicon_v67" vertex3="schetchik-Silicon_v68"/>
+             <triangular vertex1="schetchik-Silicon_v68" vertex2="schetchik-Silicon_v67" vertex3="schetchik-Silicon_v69"/>
+             <triangular vertex1="schetchik-Silicon_v68" vertex2="schetchik-Silicon_v69" vertex3="schetchik-Silicon_v70"/>
+             <triangular vertex1="schetchik-Silicon_v70" vertex2="schetchik-Silicon_v69" vertex3="schetchik-Silicon_v71"/>
+             <triangular vertex1="schetchik-Silicon_v70" vertex2="schetchik-Silicon_v71" vertex3="schetchik-Silicon_v72"/>
+             <triangular vertex1="schetchik-Silicon_v72" vertex2="schetchik-Silicon_v71" vertex3="schetchik-Silicon_v73"/>
+             <triangular vertex1="schetchik-Silicon_v72" vertex2="schetchik-Silicon_v73" vertex3="schetchik-Silicon_v74"/>
+             <triangular vertex1="schetchik-Silicon_v74" vertex2="schetchik-Silicon_v73" vertex3="schetchik-Silicon_v75"/>
+             <triangular vertex1="schetchik-Silicon_v74" vertex2="schetchik-Silicon_v75" vertex3="schetchik-Silicon_v76"/>
+             <triangular vertex1="schetchik-Silicon_v76" vertex2="schetchik-Silicon_v75" vertex3="schetchik-Silicon_v77"/>
+             <triangular vertex1="schetchik-Silicon_v76" vertex2="schetchik-Silicon_v77" vertex3="schetchik-Silicon_v78"/>
+             <triangular vertex1="schetchik-Silicon_v78" vertex2="schetchik-Silicon_v77" vertex3="schetchik-Silicon_v79"/>
+             <triangular vertex1="schetchik-Silicon_v78" vertex2="schetchik-Silicon_v79" vertex3="schetchik-Silicon_v80"/>
+             <triangular vertex1="schetchik-Silicon_v80" vertex2="schetchik-Silicon_v79" vertex3="schetchik-Silicon_v81"/>
+             <triangular vertex1="schetchik-Silicon_v80" vertex2="schetchik-Silicon_v81" vertex3="schetchik-Silicon_v82"/>
+             <triangular vertex1="schetchik-Silicon_v82" vertex2="schetchik-Silicon_v81" vertex3="schetchik-Silicon_v83"/>
+             <triangular vertex1="schetchik-Silicon_v82" vertex2="schetchik-Silicon_v83" vertex3="schetchik-Silicon_v84"/>
+             <triangular vertex1="schetchik-Silicon_v84" vertex2="schetchik-Silicon_v83" vertex3="schetchik-Silicon_v85"/>
+             <triangular vertex1="schetchik-Silicon_v84" vertex2="schetchik-Silicon_v85" vertex3="schetchik-Silicon_v86"/>
+             <triangular vertex1="schetchik-Silicon_v86" vertex2="schetchik-Silicon_v85" vertex3="schetchik-Silicon_v87"/>
+             <triangular vertex1="schetchik-Silicon_v86" vertex2="schetchik-Silicon_v87" vertex3="schetchik-Silicon_v88"/>
+             <triangular vertex1="schetchik-Silicon_v88" vertex2="schetchik-Silicon_v87" vertex3="schetchik-Silicon_v89"/>
+             <triangular vertex1="schetchik-Silicon_v88" vertex2="schetchik-Silicon_v89" vertex3="schetchik-Silicon_v90"/>
+             <triangular vertex1="schetchik-Silicon_v90" vertex2="schetchik-Silicon_v89" vertex3="schetchik-Silicon_v91"/>
+             <triangular vertex1="schetchik-Silicon_v90" vertex2="schetchik-Silicon_v91" vertex3="schetchik-Silicon_v0"/>
+             <triangular vertex1="schetchik-Silicon_v0" vertex2="schetchik-Silicon_v91" vertex3="schetchik-Silicon_v1"/>
+             <triangular vertex1="schetchik-Silicon_v92" vertex2="schetchik-Silicon_v67" vertex3="schetchik-Silicon_v93"/>
+             <triangular vertex1="schetchik-Silicon_v93" vertex2="schetchik-Silicon_v67" vertex3="schetchik-Silicon_v65"/>
+             <triangular vertex1="schetchik-Silicon_v93" vertex2="schetchik-Silicon_v65" vertex3="schetchik-Silicon_v94"/>
+             <triangular vertex1="schetchik-Silicon_v94" vertex2="schetchik-Silicon_v65" vertex3="schetchik-Silicon_v63"/>
+             <triangular vertex1="schetchik-Silicon_v94" vertex2="schetchik-Silicon_v63" vertex3="schetchik-Silicon_v95"/>
+             <triangular vertex1="schetchik-Silicon_v95" vertex2="schetchik-Silicon_v63" vertex3="schetchik-Silicon_v61"/>
+             <triangular vertex1="schetchik-Silicon_v95" vertex2="schetchik-Silicon_v61" vertex3="schetchik-Silicon_v96"/>
+             <triangular vertex1="schetchik-Silicon_v96" vertex2="schetchik-Silicon_v61" vertex3="schetchik-Silicon_v59"/>
+             <triangular vertex1="schetchik-Silicon_v96" vertex2="schetchik-Silicon_v59" vertex3="schetchik-Silicon_v97"/>
+             <triangular vertex1="schetchik-Silicon_v97" vertex2="schetchik-Silicon_v59" vertex3="schetchik-Silicon_v57"/>
+             <triangular vertex1="schetchik-Silicon_v97" vertex2="schetchik-Silicon_v57" vertex3="schetchik-Silicon_v98"/>
+             <triangular vertex1="schetchik-Silicon_v98" vertex2="schetchik-Silicon_v57" vertex3="schetchik-Silicon_v55"/>
+             <triangular vertex1="schetchik-Silicon_v98" vertex2="schetchik-Silicon_v55" vertex3="schetchik-Silicon_v99"/>
+             <triangular vertex1="schetchik-Silicon_v99" vertex2="schetchik-Silicon_v55" vertex3="schetchik-Silicon_v53"/>
+             <triangular vertex1="schetchik-Silicon_v99" vertex2="schetchik-Silicon_v53" vertex3="schetchik-Silicon_v100"/>
+             <triangular vertex1="schetchik-Silicon_v100" vertex2="schetchik-Silicon_v53" vertex3="schetchik-Silicon_v51"/>
+             <triangular vertex1="schetchik-Silicon_v100" vertex2="schetchik-Silicon_v51" vertex3="schetchik-Silicon_v101"/>
+             <triangular vertex1="schetchik-Silicon_v101" vertex2="schetchik-Silicon_v51" vertex3="schetchik-Silicon_v49"/>
+             <triangular vertex1="schetchik-Silicon_v101" vertex2="schetchik-Silicon_v49" vertex3="schetchik-Silicon_v102"/>
+             <triangular vertex1="schetchik-Silicon_v102" vertex2="schetchik-Silicon_v49" vertex3="schetchik-Silicon_v47"/>
+             <triangular vertex1="schetchik-Silicon_v102" vertex2="schetchik-Silicon_v47" vertex3="schetchik-Silicon_v103"/>
+             <triangular vertex1="schetchik-Silicon_v103" vertex2="schetchik-Silicon_v47" vertex3="schetchik-Silicon_v45"/>
+             <triangular vertex1="schetchik-Silicon_v103" vertex2="schetchik-Silicon_v45" vertex3="schetchik-Silicon_v104"/>
+             <triangular vertex1="schetchik-Silicon_v104" vertex2="schetchik-Silicon_v45" vertex3="schetchik-Silicon_v43"/>
+             <triangular vertex1="schetchik-Silicon_v104" vertex2="schetchik-Silicon_v43" vertex3="schetchik-Silicon_v105"/>
+             <triangular vertex1="schetchik-Silicon_v105" vertex2="schetchik-Silicon_v43" vertex3="schetchik-Silicon_v41"/>
+             <triangular vertex1="schetchik-Silicon_v105" vertex2="schetchik-Silicon_v41" vertex3="schetchik-Silicon_v106"/>
+             <triangular vertex1="schetchik-Silicon_v106" vertex2="schetchik-Silicon_v41" vertex3="schetchik-Silicon_v39"/>
+             <triangular vertex1="schetchik-Silicon_v106" vertex2="schetchik-Silicon_v39" vertex3="schetchik-Silicon_v107"/>
+             <triangular vertex1="schetchik-Silicon_v107" vertex2="schetchik-Silicon_v39" vertex3="schetchik-Silicon_v37"/>
+             <triangular vertex1="schetchik-Silicon_v107" vertex2="schetchik-Silicon_v37" vertex3="schetchik-Silicon_v108"/>
+             <triangular vertex1="schetchik-Silicon_v108" vertex2="schetchik-Silicon_v37" vertex3="schetchik-Silicon_v35"/>
+             <triangular vertex1="schetchik-Silicon_v108" vertex2="schetchik-Silicon_v35" vertex3="schetchik-Silicon_v109"/>
+             <triangular vertex1="schetchik-Silicon_v109" vertex2="schetchik-Silicon_v35" vertex3="schetchik-Silicon_v33"/>
+             <triangular vertex1="schetchik-Silicon_v109" vertex2="schetchik-Silicon_v33" vertex3="schetchik-Silicon_v110"/>
+             <triangular vertex1="schetchik-Silicon_v110" vertex2="schetchik-Silicon_v33" vertex3="schetchik-Silicon_v31"/>
+             <triangular vertex1="schetchik-Silicon_v110" vertex2="schetchik-Silicon_v31" vertex3="schetchik-Silicon_v111"/>
+             <triangular vertex1="schetchik-Silicon_v111" vertex2="schetchik-Silicon_v31" vertex3="schetchik-Silicon_v29"/>
+             <triangular vertex1="schetchik-Silicon_v111" vertex2="schetchik-Silicon_v29" vertex3="schetchik-Silicon_v112"/>
+             <triangular vertex1="schetchik-Silicon_v112" vertex2="schetchik-Silicon_v29" vertex3="schetchik-Silicon_v27"/>
+             <triangular vertex1="schetchik-Silicon_v112" vertex2="schetchik-Silicon_v27" vertex3="schetchik-Silicon_v113"/>
+             <triangular vertex1="schetchik-Silicon_v113" vertex2="schetchik-Silicon_v27" vertex3="schetchik-Silicon_v25"/>
+             <triangular vertex1="schetchik-Silicon_v113" vertex2="schetchik-Silicon_v25" vertex3="schetchik-Silicon_v114"/>
+             <triangular vertex1="schetchik-Silicon_v25" vertex2="schetchik-Silicon_v23" vertex3="schetchik-Silicon_v114"/>
+             <triangular vertex1="schetchik-Silicon_v114" vertex2="schetchik-Silicon_v23" vertex3="schetchik-Silicon_v21"/>
+             <triangular vertex1="schetchik-Silicon_v114" vertex2="schetchik-Silicon_v21" vertex3="schetchik-Silicon_v115"/>
+             <triangular vertex1="schetchik-Silicon_v115" vertex2="schetchik-Silicon_v21" vertex3="schetchik-Silicon_v19"/>
+             <triangular vertex1="schetchik-Silicon_v115" vertex2="schetchik-Silicon_v19" vertex3="schetchik-Silicon_v116"/>
+             <triangular vertex1="schetchik-Silicon_v116" vertex2="schetchik-Silicon_v19" vertex3="schetchik-Silicon_v17"/>
+             <triangular vertex1="schetchik-Silicon_v116" vertex2="schetchik-Silicon_v17" vertex3="schetchik-Silicon_v117"/>
+             <triangular vertex1="schetchik-Silicon_v117" vertex2="schetchik-Silicon_v17" vertex3="schetchik-Silicon_v15"/>
+             <triangular vertex1="schetchik-Silicon_v117" vertex2="schetchik-Silicon_v15" vertex3="schetchik-Silicon_v118"/>
+             <triangular vertex1="schetchik-Silicon_v118" vertex2="schetchik-Silicon_v15" vertex3="schetchik-Silicon_v13"/>
+             <triangular vertex1="schetchik-Silicon_v118" vertex2="schetchik-Silicon_v13" vertex3="schetchik-Silicon_v119"/>
+             <triangular vertex1="schetchik-Silicon_v119" vertex2="schetchik-Silicon_v13" vertex3="schetchik-Silicon_v11"/>
+             <triangular vertex1="schetchik-Silicon_v119" vertex2="schetchik-Silicon_v11" vertex3="schetchik-Silicon_v120"/>
+             <triangular vertex1="schetchik-Silicon_v120" vertex2="schetchik-Silicon_v11" vertex3="schetchik-Silicon_v9"/>
+             <triangular vertex1="schetchik-Silicon_v120" vertex2="schetchik-Silicon_v9" vertex3="schetchik-Silicon_v121"/>
+             <triangular vertex1="schetchik-Silicon_v121" vertex2="schetchik-Silicon_v9" vertex3="schetchik-Silicon_v7"/>
+             <triangular vertex1="schetchik-Silicon_v121" vertex2="schetchik-Silicon_v7" vertex3="schetchik-Silicon_v122"/>
+             <triangular vertex1="schetchik-Silicon_v122" vertex2="schetchik-Silicon_v7" vertex3="schetchik-Silicon_v5"/>
+             <triangular vertex1="schetchik-Silicon_v122" vertex2="schetchik-Silicon_v5" vertex3="schetchik-Silicon_v123"/>
+             <triangular vertex1="schetchik-Silicon_v123" vertex2="schetchik-Silicon_v5" vertex3="schetchik-Silicon_v3"/>
+             <triangular vertex1="schetchik-Silicon_v123" vertex2="schetchik-Silicon_v3" vertex3="schetchik-Silicon_v124"/>
+             <triangular vertex1="schetchik-Silicon_v124" vertex2="schetchik-Silicon_v3" vertex3="schetchik-Silicon_v1"/>
+             <triangular vertex1="schetchik-Silicon_v124" vertex2="schetchik-Silicon_v1" vertex3="schetchik-Silicon_v125"/>
+             <triangular vertex1="schetchik-Silicon_v125" vertex2="schetchik-Silicon_v1" vertex3="schetchik-Silicon_v91"/>
+             <triangular vertex1="schetchik-Silicon_v125" vertex2="schetchik-Silicon_v91" vertex3="schetchik-Silicon_v126"/>
+             <triangular vertex1="schetchik-Silicon_v126" vertex2="schetchik-Silicon_v91" vertex3="schetchik-Silicon_v89"/>
+             <triangular vertex1="schetchik-Silicon_v126" vertex2="schetchik-Silicon_v89" vertex3="schetchik-Silicon_v127"/>
+             <triangular vertex1="schetchik-Silicon_v127" vertex2="schetchik-Silicon_v89" vertex3="schetchik-Silicon_v87"/>
+             <triangular vertex1="schetchik-Silicon_v127" vertex2="schetchik-Silicon_v87" vertex3="schetchik-Silicon_v128"/>
+             <triangular vertex1="schetchik-Silicon_v128" vertex2="schetchik-Silicon_v87" vertex3="schetchik-Silicon_v85"/>
+             <triangular vertex1="schetchik-Silicon_v128" vertex2="schetchik-Silicon_v85" vertex3="schetchik-Silicon_v129"/>
+             <triangular vertex1="schetchik-Silicon_v129" vertex2="schetchik-Silicon_v85" vertex3="schetchik-Silicon_v83"/>
+             <triangular vertex1="schetchik-Silicon_v129" vertex2="schetchik-Silicon_v83" vertex3="schetchik-Silicon_v130"/>
+             <triangular vertex1="schetchik-Silicon_v130" vertex2="schetchik-Silicon_v83" vertex3="schetchik-Silicon_v81"/>
+             <triangular vertex1="schetchik-Silicon_v130" vertex2="schetchik-Silicon_v81" vertex3="schetchik-Silicon_v131"/>
+             <triangular vertex1="schetchik-Silicon_v131" vertex2="schetchik-Silicon_v81" vertex3="schetchik-Silicon_v79"/>
+             <triangular vertex1="schetchik-Silicon_v131" vertex2="schetchik-Silicon_v79" vertex3="schetchik-Silicon_v132"/>
+             <triangular vertex1="schetchik-Silicon_v132" vertex2="schetchik-Silicon_v79" vertex3="schetchik-Silicon_v77"/>
+             <triangular vertex1="schetchik-Silicon_v132" vertex2="schetchik-Silicon_v77" vertex3="schetchik-Silicon_v133"/>
+             <triangular vertex1="schetchik-Silicon_v133" vertex2="schetchik-Silicon_v77" vertex3="schetchik-Silicon_v75"/>
+             <triangular vertex1="schetchik-Silicon_v133" vertex2="schetchik-Silicon_v75" vertex3="schetchik-Silicon_v134"/>
+             <triangular vertex1="schetchik-Silicon_v134" vertex2="schetchik-Silicon_v75" vertex3="schetchik-Silicon_v73"/>
+             <triangular vertex1="schetchik-Silicon_v134" vertex2="schetchik-Silicon_v73" vertex3="schetchik-Silicon_v135"/>
+             <triangular vertex1="schetchik-Silicon_v135" vertex2="schetchik-Silicon_v73" vertex3="schetchik-Silicon_v71"/>
+             <triangular vertex1="schetchik-Silicon_v135" vertex2="schetchik-Silicon_v71" vertex3="schetchik-Silicon_v92"/>
+             <triangular vertex1="schetchik-Silicon_v92" vertex2="schetchik-Silicon_v71" vertex3="schetchik-Silicon_v69"/>
+             <triangular vertex1="schetchik-Silicon_v92" vertex2="schetchik-Silicon_v69" vertex3="schetchik-Silicon_v67"/>
+             <triangular vertex1="schetchik-Silicon_v46" vertex2="schetchik-Silicon_v48" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v40" vertex2="schetchik-Silicon_v42" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v42" vertex3="schetchik-Silicon_v44"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v44" vertex3="schetchik-Silicon_v46"/>
+             <triangular vertex1="schetchik-Silicon_v34" vertex2="schetchik-Silicon_v36" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v36" vertex3="schetchik-Silicon_v38"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v38" vertex3="schetchik-Silicon_v40"/>
+             <triangular vertex1="schetchik-Silicon_v28" vertex2="schetchik-Silicon_v30" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v30" vertex3="schetchik-Silicon_v32"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v32" vertex3="schetchik-Silicon_v34"/>
+             <triangular vertex1="schetchik-Silicon_v22" vertex2="schetchik-Silicon_v24" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v24" vertex3="schetchik-Silicon_v26"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v26" vertex3="schetchik-Silicon_v28"/>
+             <triangular vertex1="schetchik-Silicon_v16" vertex2="schetchik-Silicon_v18" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v18" vertex3="schetchik-Silicon_v20"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v20" vertex3="schetchik-Silicon_v22"/>
+             <triangular vertex1="schetchik-Silicon_v10" vertex2="schetchik-Silicon_v12" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v12" vertex3="schetchik-Silicon_v14"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v14" vertex3="schetchik-Silicon_v16"/>
+             <triangular vertex1="schetchik-Silicon_v4" vertex2="schetchik-Silicon_v6" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v6" vertex3="schetchik-Silicon_v8"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v8" vertex3="schetchik-Silicon_v10"/>
+             <triangular vertex1="schetchik-Silicon_v90" vertex2="schetchik-Silicon_v0" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v0" vertex3="schetchik-Silicon_v2"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v2" vertex3="schetchik-Silicon_v4"/>
+             <triangular vertex1="schetchik-Silicon_v84" vertex2="schetchik-Silicon_v86" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v86" vertex3="schetchik-Silicon_v88"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v88" vertex3="schetchik-Silicon_v90"/>
+             <triangular vertex1="schetchik-Silicon_v78" vertex2="schetchik-Silicon_v80" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v80" vertex3="schetchik-Silicon_v82"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v82" vertex3="schetchik-Silicon_v84"/>
+             <triangular vertex1="schetchik-Silicon_v72" vertex2="schetchik-Silicon_v74" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v74" vertex3="schetchik-Silicon_v76"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v76" vertex3="schetchik-Silicon_v78"/>
+             <triangular vertex1="schetchik-Silicon_v66" vertex2="schetchik-Silicon_v68" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v68" vertex3="schetchik-Silicon_v70"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v70" vertex3="schetchik-Silicon_v72"/>
+             <triangular vertex1="schetchik-Silicon_v60" vertex2="schetchik-Silicon_v62" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v62" vertex3="schetchik-Silicon_v64"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v64" vertex3="schetchik-Silicon_v66"/>
+             <triangular vertex1="schetchik-Silicon_v54" vertex2="schetchik-Silicon_v56" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v56" vertex3="schetchik-Silicon_v58"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v58" vertex3="schetchik-Silicon_v60"/>
+             <triangular vertex1="schetchik-Silicon_v48" vertex2="schetchik-Silicon_v50" vertex3="schetchik-Silicon_v136"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v50" vertex3="schetchik-Silicon_v52"/>
+             <triangular vertex1="schetchik-Silicon_v136" vertex2="schetchik-Silicon_v52" vertex3="schetchik-Silicon_v54"/>
+             <triangular vertex1="schetchik-Silicon_v137" vertex2="schetchik-Silicon_v103" vertex3="schetchik-Silicon_v138"/>
+             <triangular vertex1="schetchik-Silicon_v138" vertex2="schetchik-Silicon_v103" vertex3="schetchik-Silicon_v104"/>
+             <triangular vertex1="schetchik-Silicon_v138" vertex2="schetchik-Silicon_v104" vertex3="schetchik-Silicon_v139"/>
+             <triangular vertex1="schetchik-Silicon_v139" vertex2="schetchik-Silicon_v104" vertex3="schetchik-Silicon_v105"/>
+             <triangular vertex1="schetchik-Silicon_v139" vertex2="schetchik-Silicon_v105" vertex3="schetchik-Silicon_v140"/>
+             <triangular vertex1="schetchik-Silicon_v140" vertex2="schetchik-Silicon_v105" vertex3="schetchik-Silicon_v106"/>
+             <triangular vertex1="schetchik-Silicon_v140" vertex2="schetchik-Silicon_v106" vertex3="schetchik-Silicon_v141"/>
+             <triangular vertex1="schetchik-Silicon_v141" vertex2="schetchik-Silicon_v106" vertex3="schetchik-Silicon_v107"/>
+             <triangular vertex1="schetchik-Silicon_v141" vertex2="schetchik-Silicon_v107" vertex3="schetchik-Silicon_v142"/>
+             <triangular vertex1="schetchik-Silicon_v142" vertex2="schetchik-Silicon_v107" vertex3="schetchik-Silicon_v108"/>
+             <triangular vertex1="schetchik-Silicon_v142" vertex2="schetchik-Silicon_v108" vertex3="schetchik-Silicon_v143"/>
+             <triangular vertex1="schetchik-Silicon_v143" vertex2="schetchik-Silicon_v108" vertex3="schetchik-Silicon_v109"/>
+             <triangular vertex1="schetchik-Silicon_v143" vertex2="schetchik-Silicon_v109" vertex3="schetchik-Silicon_v144"/>
+             <triangular vertex1="schetchik-Silicon_v144" vertex2="schetchik-Silicon_v109" vertex3="schetchik-Silicon_v110"/>
+             <triangular vertex1="schetchik-Silicon_v144" vertex2="schetchik-Silicon_v110" vertex3="schetchik-Silicon_v145"/>
+             <triangular vertex1="schetchik-Silicon_v145" vertex2="schetchik-Silicon_v110" vertex3="schetchik-Silicon_v111"/>
+             <triangular vertex1="schetchik-Silicon_v145" vertex2="schetchik-Silicon_v111" vertex3="schetchik-Silicon_v146"/>
+             <triangular vertex1="schetchik-Silicon_v146" vertex2="schetchik-Silicon_v111" vertex3="schetchik-Silicon_v112"/>
+             <triangular vertex1="schetchik-Silicon_v146" vertex2="schetchik-Silicon_v112" vertex3="schetchik-Silicon_v147"/>
+             <triangular vertex1="schetchik-Silicon_v147" vertex2="schetchik-Silicon_v112" vertex3="schetchik-Silicon_v113"/>
+             <triangular vertex1="schetchik-Silicon_v147" vertex2="schetchik-Silicon_v113" vertex3="schetchik-Silicon_v148"/>
+             <triangular vertex1="schetchik-Silicon_v148" vertex2="schetchik-Silicon_v113" vertex3="schetchik-Silicon_v114"/>
+             <triangular vertex1="schetchik-Silicon_v148" vertex2="schetchik-Silicon_v114" vertex3="schetchik-Silicon_v149"/>
+             <triangular vertex1="schetchik-Silicon_v149" vertex2="schetchik-Silicon_v114" vertex3="schetchik-Silicon_v115"/>
+             <triangular vertex1="schetchik-Silicon_v149" vertex2="schetchik-Silicon_v115" vertex3="schetchik-Silicon_v150"/>
+             <triangular vertex1="schetchik-Silicon_v150" vertex2="schetchik-Silicon_v115" vertex3="schetchik-Silicon_v116"/>
+             <triangular vertex1="schetchik-Silicon_v150" vertex2="schetchik-Silicon_v116" vertex3="schetchik-Silicon_v151"/>
+             <triangular vertex1="schetchik-Silicon_v151" vertex2="schetchik-Silicon_v116" vertex3="schetchik-Silicon_v117"/>
+             <triangular vertex1="schetchik-Silicon_v151" vertex2="schetchik-Silicon_v117" vertex3="schetchik-Silicon_v152"/>
+             <triangular vertex1="schetchik-Silicon_v152" vertex2="schetchik-Silicon_v117" vertex3="schetchik-Silicon_v118"/>
+             <triangular vertex1="schetchik-Silicon_v152" vertex2="schetchik-Silicon_v118" vertex3="schetchik-Silicon_v153"/>
+             <triangular vertex1="schetchik-Silicon_v153" vertex2="schetchik-Silicon_v118" vertex3="schetchik-Silicon_v119"/>
+             <triangular vertex1="schetchik-Silicon_v153" vertex2="schetchik-Silicon_v119" vertex3="schetchik-Silicon_v154"/>
+             <triangular vertex1="schetchik-Silicon_v154" vertex2="schetchik-Silicon_v119" vertex3="schetchik-Silicon_v120"/>
+             <triangular vertex1="schetchik-Silicon_v154" vertex2="schetchik-Silicon_v120" vertex3="schetchik-Silicon_v155"/>
+             <triangular vertex1="schetchik-Silicon_v155" vertex2="schetchik-Silicon_v120" vertex3="schetchik-Silicon_v121"/>
+             <triangular vertex1="schetchik-Silicon_v155" vertex2="schetchik-Silicon_v121" vertex3="schetchik-Silicon_v156"/>
+             <triangular vertex1="schetchik-Silicon_v156" vertex2="schetchik-Silicon_v121" vertex3="schetchik-Silicon_v122"/>
+             <triangular vertex1="schetchik-Silicon_v156" vertex2="schetchik-Silicon_v122" vertex3="schetchik-Silicon_v157"/>
+             <triangular vertex1="schetchik-Silicon_v157" vertex2="schetchik-Silicon_v122" vertex3="schetchik-Silicon_v123"/>
+             <triangular vertex1="schetchik-Silicon_v157" vertex2="schetchik-Silicon_v123" vertex3="schetchik-Silicon_v158"/>
+             <triangular vertex1="schetchik-Silicon_v158" vertex2="schetchik-Silicon_v123" vertex3="schetchik-Silicon_v124"/>
+             <triangular vertex1="schetchik-Silicon_v158" vertex2="schetchik-Silicon_v124" vertex3="schetchik-Silicon_v159"/>
+             <triangular vertex1="schetchik-Silicon_v159" vertex2="schetchik-Silicon_v124" vertex3="schetchik-Silicon_v125"/>
+             <triangular vertex1="schetchik-Silicon_v159" vertex2="schetchik-Silicon_v125" vertex3="schetchik-Silicon_v160"/>
+             <triangular vertex1="schetchik-Silicon_v160" vertex2="schetchik-Silicon_v125" vertex3="schetchik-Silicon_v126"/>
+             <triangular vertex1="schetchik-Silicon_v160" vertex2="schetchik-Silicon_v126" vertex3="schetchik-Silicon_v161"/>
+             <triangular vertex1="schetchik-Silicon_v161" vertex2="schetchik-Silicon_v126" vertex3="schetchik-Silicon_v127"/>
+             <triangular vertex1="schetchik-Silicon_v161" vertex2="schetchik-Silicon_v127" vertex3="schetchik-Silicon_v162"/>
+             <triangular vertex1="schetchik-Silicon_v162" vertex2="schetchik-Silicon_v127" vertex3="schetchik-Silicon_v128"/>
+             <triangular vertex1="schetchik-Silicon_v162" vertex2="schetchik-Silicon_v128" vertex3="schetchik-Silicon_v163"/>
+             <triangular vertex1="schetchik-Silicon_v163" vertex2="schetchik-Silicon_v128" vertex3="schetchik-Silicon_v129"/>
+             <triangular vertex1="schetchik-Silicon_v163" vertex2="schetchik-Silicon_v129" vertex3="schetchik-Silicon_v164"/>
+             <triangular vertex1="schetchik-Silicon_v164" vertex2="schetchik-Silicon_v129" vertex3="schetchik-Silicon_v130"/>
+             <triangular vertex1="schetchik-Silicon_v164" vertex2="schetchik-Silicon_v130" vertex3="schetchik-Silicon_v165"/>
+             <triangular vertex1="schetchik-Silicon_v165" vertex2="schetchik-Silicon_v130" vertex3="schetchik-Silicon_v131"/>
+             <triangular vertex1="schetchik-Silicon_v165" vertex2="schetchik-Silicon_v131" vertex3="schetchik-Silicon_v166"/>
+             <triangular vertex1="schetchik-Silicon_v166" vertex2="schetchik-Silicon_v131" vertex3="schetchik-Silicon_v132"/>
+             <triangular vertex1="schetchik-Silicon_v166" vertex2="schetchik-Silicon_v132" vertex3="schetchik-Silicon_v167"/>
+             <triangular vertex1="schetchik-Silicon_v167" vertex2="schetchik-Silicon_v132" vertex3="schetchik-Silicon_v133"/>
+             <triangular vertex1="schetchik-Silicon_v167" vertex2="schetchik-Silicon_v133" vertex3="schetchik-Silicon_v168"/>
+             <triangular vertex1="schetchik-Silicon_v168" vertex2="schetchik-Silicon_v133" vertex3="schetchik-Silicon_v134"/>
+             <triangular vertex1="schetchik-Silicon_v168" vertex2="schetchik-Silicon_v134" vertex3="schetchik-Silicon_v169"/>
+             <triangular vertex1="schetchik-Silicon_v169" vertex2="schetchik-Silicon_v134" vertex3="schetchik-Silicon_v135"/>
+             <triangular vertex1="schetchik-Silicon_v169" vertex2="schetchik-Silicon_v135" vertex3="schetchik-Silicon_v170"/>
+             <triangular vertex1="schetchik-Silicon_v170" vertex2="schetchik-Silicon_v135" vertex3="schetchik-Silicon_v92"/>
+             <triangular vertex1="schetchik-Silicon_v170" vertex2="schetchik-Silicon_v92" vertex3="schetchik-Silicon_v171"/>
+             <triangular vertex1="schetchik-Silicon_v171" vertex2="schetchik-Silicon_v92" vertex3="schetchik-Silicon_v93"/>
+             <triangular vertex1="schetchik-Silicon_v171" vertex2="schetchik-Silicon_v93" vertex3="schetchik-Silicon_v172"/>
+             <triangular vertex1="schetchik-Silicon_v172" vertex2="schetchik-Silicon_v93" vertex3="schetchik-Silicon_v94"/>
+             <triangular vertex1="schetchik-Silicon_v172" vertex2="schetchik-Silicon_v94" vertex3="schetchik-Silicon_v173"/>
+             <triangular vertex1="schetchik-Silicon_v173" vertex2="schetchik-Silicon_v94" vertex3="schetchik-Silicon_v95"/>
+             <triangular vertex1="schetchik-Silicon_v173" vertex2="schetchik-Silicon_v95" vertex3="schetchik-Silicon_v174"/>
+             <triangular vertex1="schetchik-Silicon_v174" vertex2="schetchik-Silicon_v95" vertex3="schetchik-Silicon_v96"/>
+             <triangular vertex1="schetchik-Silicon_v174" vertex2="schetchik-Silicon_v96" vertex3="schetchik-Silicon_v175"/>
+             <triangular vertex1="schetchik-Silicon_v175" vertex2="schetchik-Silicon_v96" vertex3="schetchik-Silicon_v97"/>
+             <triangular vertex1="schetchik-Silicon_v175" vertex2="schetchik-Silicon_v97" vertex3="schetchik-Silicon_v176"/>
+             <triangular vertex1="schetchik-Silicon_v176" vertex2="schetchik-Silicon_v97" vertex3="schetchik-Silicon_v98"/>
+             <triangular vertex1="schetchik-Silicon_v176" vertex2="schetchik-Silicon_v98" vertex3="schetchik-Silicon_v177"/>
+             <triangular vertex1="schetchik-Silicon_v177" vertex2="schetchik-Silicon_v98" vertex3="schetchik-Silicon_v99"/>
+             <triangular vertex1="schetchik-Silicon_v177" vertex2="schetchik-Silicon_v99" vertex3="schetchik-Silicon_v178"/>
+             <triangular vertex1="schetchik-Silicon_v178" vertex2="schetchik-Silicon_v99" vertex3="schetchik-Silicon_v100"/>
+             <triangular vertex1="schetchik-Silicon_v178" vertex2="schetchik-Silicon_v100" vertex3="schetchik-Silicon_v179"/>
+             <triangular vertex1="schetchik-Silicon_v179" vertex2="schetchik-Silicon_v100" vertex3="schetchik-Silicon_v101"/>
+             <triangular vertex1="schetchik-Silicon_v179" vertex2="schetchik-Silicon_v101" vertex3="schetchik-Silicon_v180"/>
+             <triangular vertex1="schetchik-Silicon_v180" vertex2="schetchik-Silicon_v101" vertex3="schetchik-Silicon_v102"/>
+             <triangular vertex1="schetchik-Silicon_v180" vertex2="schetchik-Silicon_v102" vertex3="schetchik-Silicon_v137"/>
+             <triangular vertex1="schetchik-Silicon_v137" vertex2="schetchik-Silicon_v102" vertex3="schetchik-Silicon_v103"/>
+             <triangular vertex1="schetchik-Silicon_v137" vertex2="schetchik-Silicon_v138" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v137" vertex2="schetchik-Silicon_v181" vertex3="schetchik-Silicon_v180"/>
+             <triangular vertex1="schetchik-Silicon_v177" vertex2="schetchik-Silicon_v178" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v178" vertex3="schetchik-Silicon_v179"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v179" vertex3="schetchik-Silicon_v180"/>
+             <triangular vertex1="schetchik-Silicon_v174" vertex2="schetchik-Silicon_v175" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v175" vertex3="schetchik-Silicon_v176"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v176" vertex3="schetchik-Silicon_v177"/>
+             <triangular vertex1="schetchik-Silicon_v171" vertex2="schetchik-Silicon_v172" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v172" vertex3="schetchik-Silicon_v173"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v173" vertex3="schetchik-Silicon_v174"/>
+             <triangular vertex1="schetchik-Silicon_v168" vertex2="schetchik-Silicon_v169" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v169" vertex3="schetchik-Silicon_v170"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v170" vertex3="schetchik-Silicon_v171"/>
+             <triangular vertex1="schetchik-Silicon_v165" vertex2="schetchik-Silicon_v166" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v166" vertex3="schetchik-Silicon_v167"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v167" vertex3="schetchik-Silicon_v168"/>
+             <triangular vertex1="schetchik-Silicon_v162" vertex2="schetchik-Silicon_v163" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v163" vertex3="schetchik-Silicon_v164"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v164" vertex3="schetchik-Silicon_v165"/>
+             <triangular vertex1="schetchik-Silicon_v159" vertex2="schetchik-Silicon_v160" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v160" vertex3="schetchik-Silicon_v161"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v161" vertex3="schetchik-Silicon_v162"/>
+             <triangular vertex1="schetchik-Silicon_v156" vertex2="schetchik-Silicon_v157" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v157" vertex3="schetchik-Silicon_v158"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v158" vertex3="schetchik-Silicon_v159"/>
+             <triangular vertex1="schetchik-Silicon_v153" vertex2="schetchik-Silicon_v154" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v154" vertex3="schetchik-Silicon_v155"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v155" vertex3="schetchik-Silicon_v156"/>
+             <triangular vertex1="schetchik-Silicon_v150" vertex2="schetchik-Silicon_v151" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v151" vertex3="schetchik-Silicon_v152"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v152" vertex3="schetchik-Silicon_v153"/>
+             <triangular vertex1="schetchik-Silicon_v147" vertex2="schetchik-Silicon_v148" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v148" vertex3="schetchik-Silicon_v149"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v149" vertex3="schetchik-Silicon_v150"/>
+             <triangular vertex1="schetchik-Silicon_v144" vertex2="schetchik-Silicon_v145" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v145" vertex3="schetchik-Silicon_v146"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v146" vertex3="schetchik-Silicon_v147"/>
+             <triangular vertex1="schetchik-Silicon_v141" vertex2="schetchik-Silicon_v142" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v142" vertex3="schetchik-Silicon_v143"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v143" vertex3="schetchik-Silicon_v144"/>
+             <triangular vertex1="schetchik-Silicon_v138" vertex2="schetchik-Silicon_v139" vertex3="schetchik-Silicon_v181"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v139" vertex3="schetchik-Silicon_v140"/>
+             <triangular vertex1="schetchik-Silicon_v181" vertex2="schetchik-Silicon_v140" vertex3="schetchik-Silicon_v141"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="schetchik-Silicon">
+            <materialref ref="Silicon"/>
+            <solidref ref="schetchik-Silicon-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="schetchik-Silicon"/>
+    </setup>
+</gdml>

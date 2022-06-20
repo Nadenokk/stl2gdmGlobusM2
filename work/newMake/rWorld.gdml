@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/projects/soft/ext/sources/geant4.10.06.p01/environments/g4py/examples/gdml/GDMLSchema/gdml.xsd">
+
+    <materials>
+        <element name="videRef"    formula="VACUUM" Z="1"> <atom value="1."/>       </element>
+        <material formula=" " name="Vacuum">
+            <D value="1.e-25" unit="g/cm3" />
+            <fraction n="1.0" ref="videRef" />
+        </material>
+    </materials>
+
+    <solids>
+        <box lunit="mm" name="world_solid" x="10000.0" y="10000.0" z="10000.0" />
+    </solids>
+
+    <structure>
+        <volume name="world_volume">
+            <materialref ref="Vacuum"/>
+            <solidref ref="world_solid"/>
+
+            <physvol>
+                <file name="World.gdml"/>
+             </physvol>
+
+
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="world_volume"/>
+    </setup>
+</gdml>

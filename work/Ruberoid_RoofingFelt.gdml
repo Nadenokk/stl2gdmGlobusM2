@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="Ruberoid_RoofingFelt_v0" unit="mm" x="270.0" y="11000.0" z="14490.0"/>
+        <position name="Ruberoid_RoofingFelt_v1" unit="mm" x="270.0" y="11000.0" z="700.0"/>
+        <position name="Ruberoid_RoofingFelt_v2" unit="mm" x="270.0" y="10990.0" z="14490.0"/>
+        <position name="Ruberoid_RoofingFelt_v3" unit="mm" x="270.0" y="10990.0" z="700.0"/>
+        <position name="Ruberoid_RoofingFelt_v4" unit="mm" x="21270.0" y="11000.0" z="14490.0"/>
+        <position name="Ruberoid_RoofingFelt_v5" unit="mm" x="21270.0" y="10990.0" z="14490.0"/>
+        <position name="Ruberoid_RoofingFelt_v6" unit="mm" x="21270.0" y="11000.0" z="700.0"/>
+        <position name="Ruberoid_RoofingFelt_v7" unit="mm" x="21270.0" y="10990.0" z="700.0"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="Ruberoid_RoofingFelt-SOL">
+             <triangular vertex1="Ruberoid_RoofingFelt_v0" vertex2="Ruberoid_RoofingFelt_v1" vertex3="Ruberoid_RoofingFelt_v2"/>
+             <triangular vertex1="Ruberoid_RoofingFelt_v2" vertex2="Ruberoid_RoofingFelt_v1" vertex3="Ruberoid_RoofingFelt_v3"/>
+             <triangular vertex1="Ruberoid_RoofingFelt_v4" vertex2="Ruberoid_RoofingFelt_v0" vertex3="Ruberoid_RoofingFelt_v5"/>
+             <triangular vertex1="Ruberoid_RoofingFelt_v5" vertex2="Ruberoid_RoofingFelt_v0" vertex3="Ruberoid_RoofingFelt_v2"/>
+             <triangular vertex1="Ruberoid_RoofingFelt_v6" vertex2="Ruberoid_RoofingFelt_v4" vertex3="Ruberoid_RoofingFelt_v7"/>
+             <triangular vertex1="Ruberoid_RoofingFelt_v7" vertex2="Ruberoid_RoofingFelt_v4" vertex3="Ruberoid_RoofingFelt_v5"/>
+             <triangular vertex1="Ruberoid_RoofingFelt_v1" vertex2="Ruberoid_RoofingFelt_v6" vertex3="Ruberoid_RoofingFelt_v3"/>
+             <triangular vertex1="Ruberoid_RoofingFelt_v3" vertex2="Ruberoid_RoofingFelt_v6" vertex3="Ruberoid_RoofingFelt_v7"/>
+             <triangular vertex1="Ruberoid_RoofingFelt_v4" vertex2="Ruberoid_RoofingFelt_v6" vertex3="Ruberoid_RoofingFelt_v0"/>
+             <triangular vertex1="Ruberoid_RoofingFelt_v0" vertex2="Ruberoid_RoofingFelt_v6" vertex3="Ruberoid_RoofingFelt_v1"/>
+             <triangular vertex1="Ruberoid_RoofingFelt_v7" vertex2="Ruberoid_RoofingFelt_v5" vertex3="Ruberoid_RoofingFelt_v3"/>
+             <triangular vertex1="Ruberoid_RoofingFelt_v3" vertex2="Ruberoid_RoofingFelt_v5" vertex3="Ruberoid_RoofingFelt_v2"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="Ruberoid_RoofingFelt">
+            <materialref ref="RoofingFelt"/>
+            <solidref ref="Ruberoid_RoofingFelt-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="Ruberoid_RoofingFelt"/>
+    </setup>
+</gdml>

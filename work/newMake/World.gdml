@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/projects/soft/ext/sources/geant4.10.06.p01/environments/g4py/examples/gdml/GDMLSchema/gdml.xsd">
+
+    <define>
+        <position name="World_v0" unit="mm" x="-2800.0" y="26500.0" z="-15500.0"/>
+        <position name="World_v1" unit="mm" x="-2800.0" y="-3500.0" z="-15500.0"/>
+        <position name="World_v2" unit="mm" x="-2800.0" y="26500.0" z="14500.0"/>
+        <position name="World_v3" unit="mm" x="-2800.0" y="-3500.0" z="14500.0"/>
+        <position name="World_v4" unit="mm" x="17200.0" y="26500.0" z="-15500.0"/>
+        <position name="World_v5" unit="mm" x="17200.0" y="26500.0" z="14500.0"/>
+        <position name="World_v6" unit="mm" x="17200.0" y="-3500.0" z="-15500.0"/>
+        <position name="World_v7" unit="mm" x="17200.0" y="-3500.0" z="14500.0"/>
+    </define>
+
+    <materials>
+        <element name="videRef"    formula="VACUUM" Z="1"> <atom value="1."/>       </element>
+        <material formula=" " name="Vacuum">
+            <D value="1.e-25" unit="g/cm3" />
+            <fraction n="1.0" ref="videRef" />
+        </material>
+    </materials>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="World-SOL">
+             <triangular vertex1="World_v0" vertex2="World_v1" vertex3="World_v2"/>
+             <triangular vertex1="World_v2" vertex2="World_v1" vertex3="World_v3"/>
+             <triangular vertex1="World_v4" vertex2="World_v5" vertex3="World_v6"/>
+             <triangular vertex1="World_v5" vertex2="World_v7" vertex3="World_v6"/>
+             <triangular vertex1="World_v1" vertex2="World_v6" vertex3="World_v7"/>
+             <triangular vertex1="World_v3" vertex2="World_v1" vertex3="World_v7"/>
+             <triangular vertex1="World_v0" vertex2="World_v5" vertex3="World_v4"/>
+             <triangular vertex1="World_v2" vertex2="World_v5" vertex3="World_v0"/>
+             <triangular vertex1="World_v1" vertex2="World_v0" vertex3="World_v4"/>
+             <triangular vertex1="World_v6" vertex2="World_v1" vertex3="World_v4"/>
+             <triangular vertex1="World_v3" vertex2="World_v5" vertex3="World_v2"/>
+             <triangular vertex1="World_v7" vertex2="World_v5" vertex3="World_v3"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="World">
+            <materialref ref="Vacuum"/>
+            <solidref ref="World-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="World"/>
+    </setup>
+</gdml>

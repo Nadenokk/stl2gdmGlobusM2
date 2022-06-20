@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="schetchik-Tungsten_v0" unit="mm" x="7072.528809" y="210.424301" z="1784.0"/>
+        <position name="schetchik-Tungsten_v1" unit="mm" x="7074.959961" y="210.211594" z="2194.0"/>
+        <position name="schetchik-Tungsten_v2" unit="mm" x="7074.959961" y="210.211594" z="1784.0"/>
+        <position name="schetchik-Tungsten_v3" unit="mm" x="7077.316895" y="209.580002" z="2194.0"/>
+        <position name="schetchik-Tungsten_v4" unit="mm" x="7077.316895" y="209.580002" z="1784.0"/>
+        <position name="schetchik-Tungsten_v5" unit="mm" x="7079.528809" y="208.548599" z="2194.0"/>
+        <position name="schetchik-Tungsten_v6" unit="mm" x="7079.528809" y="208.548599" z="1784.0"/>
+        <position name="schetchik-Tungsten_v7" unit="mm" x="7081.527832" y="207.148895" z="2194.0"/>
+        <position name="schetchik-Tungsten_v8" unit="mm" x="7081.527832" y="207.148895" z="1784.0"/>
+        <position name="schetchik-Tungsten_v9" unit="mm" x="7083.253906" y="205.423294" z="2194.0"/>
+        <position name="schetchik-Tungsten_v10" unit="mm" x="7083.253906" y="205.423294" z="1784.0"/>
+        <position name="schetchik-Tungsten_v11" unit="mm" x="7084.652832" y="203.424301" z="2194.0"/>
+        <position name="schetchik-Tungsten_v12" unit="mm" x="7084.652832" y="203.424301" z="1784.0"/>
+        <position name="schetchik-Tungsten_v13" unit="mm" x="7085.685059" y="201.212494" z="2194.0"/>
+        <position name="schetchik-Tungsten_v14" unit="mm" x="7085.685059" y="201.212494" z="1784.0"/>
+        <position name="schetchik-Tungsten_v15" unit="mm" x="7086.315918" y="198.855301" z="2194.0"/>
+        <position name="schetchik-Tungsten_v16" unit="mm" x="7086.315918" y="198.855301" z="1784.0"/>
+        <position name="schetchik-Tungsten_v17" unit="mm" x="7086.528809" y="196.424301" z="2194.0"/>
+        <position name="schetchik-Tungsten_v18" unit="mm" x="7086.528809" y="196.424301" z="1784.0"/>
+        <position name="schetchik-Tungsten_v19" unit="mm" x="7086.315918" y="193.993195" z="2194.0"/>
+        <position name="schetchik-Tungsten_v20" unit="mm" x="7086.315918" y="193.993195" z="1784.0"/>
+        <position name="schetchik-Tungsten_v21" unit="mm" x="7085.685059" y="191.636002" z="2194.0"/>
+        <position name="schetchik-Tungsten_v22" unit="mm" x="7085.685059" y="191.636002" z="1784.0"/>
+        <position name="schetchik-Tungsten_v23" unit="mm" x="7084.652832" y="189.424301" z="2194.0"/>
+        <position name="schetchik-Tungsten_v24" unit="mm" x="7084.652832" y="189.424301" z="1784.0"/>
+        <position name="schetchik-Tungsten_v25" unit="mm" x="7083.253906" y="187.425201" z="2194.0"/>
+        <position name="schetchik-Tungsten_v26" unit="mm" x="7083.253906" y="187.425201" z="1784.0"/>
+        <position name="schetchik-Tungsten_v27" unit="mm" x="7081.527832" y="185.6996" z="2194.0"/>
+        <position name="schetchik-Tungsten_v28" unit="mm" x="7081.527832" y="185.6996" z="1784.0"/>
+        <position name="schetchik-Tungsten_v29" unit="mm" x="7079.528809" y="184.299896" z="2194.0"/>
+        <position name="schetchik-Tungsten_v30" unit="mm" x="7079.528809" y="184.299896" z="1784.0"/>
+        <position name="schetchik-Tungsten_v31" unit="mm" x="7077.316895" y="183.2686" z="2194.0"/>
+        <position name="schetchik-Tungsten_v32" unit="mm" x="7077.316895" y="183.2686" z="1784.0"/>
+        <position name="schetchik-Tungsten_v33" unit="mm" x="7074.959961" y="182.636993" z="2194.0"/>
+        <position name="schetchik-Tungsten_v34" unit="mm" x="7074.959961" y="182.636993" z="1784.0"/>
+        <position name="schetchik-Tungsten_v35" unit="mm" x="7072.528809" y="182.424301" z="2194.0"/>
+        <position name="schetchik-Tungsten_v36" unit="mm" x="7072.528809" y="182.424301" z="1784.0"/>
+        <position name="schetchik-Tungsten_v37" unit="mm" x="7070.098145" y="182.636993" z="2194.0"/>
+        <position name="schetchik-Tungsten_v38" unit="mm" x="7070.098145" y="182.636993" z="1784.0"/>
+        <position name="schetchik-Tungsten_v39" unit="mm" x="7067.741211" y="183.2686" z="2194.0"/>
+        <position name="schetchik-Tungsten_v40" unit="mm" x="7067.741211" y="183.2686" z="1784.0"/>
+        <position name="schetchik-Tungsten_v41" unit="mm" x="7065.528809" y="184.299896" z="2194.0"/>
+        <position name="schetchik-Tungsten_v42" unit="mm" x="7065.528809" y="184.299896" z="1784.0"/>
+        <position name="schetchik-Tungsten_v43" unit="mm" x="7063.529785" y="185.6996" z="2194.0"/>
+        <position name="schetchik-Tungsten_v44" unit="mm" x="7063.529785" y="185.6996" z="1784.0"/>
+        <position name="schetchik-Tungsten_v45" unit="mm" x="7061.804199" y="187.425201" z="2194.0"/>
+        <position name="schetchik-Tungsten_v46" unit="mm" x="7061.804199" y="187.425201" z="1784.0"/>
+        <position name="schetchik-Tungsten_v47" unit="mm" x="7060.404785" y="189.424301" z="2194.0"/>
+        <position name="schetchik-Tungsten_v48" unit="mm" x="7060.404785" y="189.424301" z="1784.0"/>
+        <position name="schetchik-Tungsten_v49" unit="mm" x="7059.373047" y="191.636002" z="2194.0"/>
+        <position name="schetchik-Tungsten_v50" unit="mm" x="7059.373047" y="191.636002" z="1784.0"/>
+        <position name="schetchik-Tungsten_v51" unit="mm" x="7058.742188" y="193.993195" z="2194.0"/>
+        <position name="schetchik-Tungsten_v52" unit="mm" x="7058.742188" y="193.993195" z="1784.0"/>
+        <position name="schetchik-Tungsten_v53" unit="mm" x="7058.528809" y="196.424301" z="2194.0"/>
+        <position name="schetchik-Tungsten_v54" unit="mm" x="7058.528809" y="196.424301" z="1784.0"/>
+        <position name="schetchik-Tungsten_v55" unit="mm" x="7058.742188" y="198.855301" z="2194.0"/>
+        <position name="schetchik-Tungsten_v56" unit="mm" x="7058.742188" y="198.855301" z="1784.0"/>
+        <position name="schetchik-Tungsten_v57" unit="mm" x="7059.373047" y="201.212494" z="2194.0"/>
+        <position name="schetchik-Tungsten_v58" unit="mm" x="7059.373047" y="201.212494" z="1784.0"/>
+        <position name="schetchik-Tungsten_v59" unit="mm" x="7060.404785" y="203.424301" z="2194.0"/>
+        <position name="schetchik-Tungsten_v60" unit="mm" x="7060.404785" y="203.424301" z="1784.0"/>
+        <position name="schetchik-Tungsten_v61" unit="mm" x="7061.804199" y="205.423294" z="2194.0"/>
+        <position name="schetchik-Tungsten_v62" unit="mm" x="7061.804199" y="205.423294" z="1784.0"/>
+        <position name="schetchik-Tungsten_v63" unit="mm" x="7063.529785" y="207.148895" z="2194.0"/>
+        <position name="schetchik-Tungsten_v64" unit="mm" x="7063.529785" y="207.148895" z="1784.0"/>
+        <position name="schetchik-Tungsten_v65" unit="mm" x="7065.528809" y="208.548599" z="2194.0"/>
+        <position name="schetchik-Tungsten_v66" unit="mm" x="7065.528809" y="208.548599" z="1784.0"/>
+        <position name="schetchik-Tungsten_v67" unit="mm" x="7067.741211" y="209.580002" z="2194.0"/>
+        <position name="schetchik-Tungsten_v68" unit="mm" x="7067.741211" y="209.580002" z="1784.0"/>
+        <position name="schetchik-Tungsten_v69" unit="mm" x="7070.098145" y="210.211594" z="2194.0"/>
+        <position name="schetchik-Tungsten_v70" unit="mm" x="7070.098145" y="210.211594" z="1784.0"/>
+        <position name="schetchik-Tungsten_v71" unit="mm" x="7072.528809" y="210.424301" z="2194.0"/>
+        <position name="schetchik-Tungsten_v72" unit="mm" x="7072.528809" y="196.424301" z="2194.0"/>
+        <position name="schetchik-Tungsten_v73" unit="mm" x="7072.528809" y="196.424301" z="1784.0"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="schetchik-Tungsten-SOL">
+             <triangular vertex1="schetchik-Tungsten_v0" vertex2="schetchik-Tungsten_v1" vertex3="schetchik-Tungsten_v2"/>
+             <triangular vertex1="schetchik-Tungsten_v2" vertex2="schetchik-Tungsten_v1" vertex3="schetchik-Tungsten_v3"/>
+             <triangular vertex1="schetchik-Tungsten_v2" vertex2="schetchik-Tungsten_v3" vertex3="schetchik-Tungsten_v4"/>
+             <triangular vertex1="schetchik-Tungsten_v4" vertex2="schetchik-Tungsten_v3" vertex3="schetchik-Tungsten_v5"/>
+             <triangular vertex1="schetchik-Tungsten_v4" vertex2="schetchik-Tungsten_v5" vertex3="schetchik-Tungsten_v6"/>
+             <triangular vertex1="schetchik-Tungsten_v6" vertex2="schetchik-Tungsten_v5" vertex3="schetchik-Tungsten_v7"/>
+             <triangular vertex1="schetchik-Tungsten_v6" vertex2="schetchik-Tungsten_v7" vertex3="schetchik-Tungsten_v8"/>
+             <triangular vertex1="schetchik-Tungsten_v8" vertex2="schetchik-Tungsten_v7" vertex3="schetchik-Tungsten_v9"/>
+             <triangular vertex1="schetchik-Tungsten_v8" vertex2="schetchik-Tungsten_v9" vertex3="schetchik-Tungsten_v10"/>
+             <triangular vertex1="schetchik-Tungsten_v10" vertex2="schetchik-Tungsten_v9" vertex3="schetchik-Tungsten_v11"/>
+             <triangular vertex1="schetchik-Tungsten_v10" vertex2="schetchik-Tungsten_v11" vertex3="schetchik-Tungsten_v12"/>
+             <triangular vertex1="schetchik-Tungsten_v12" vertex2="schetchik-Tungsten_v11" vertex3="schetchik-Tungsten_v13"/>
+             <triangular vertex1="schetchik-Tungsten_v12" vertex2="schetchik-Tungsten_v13" vertex3="schetchik-Tungsten_v14"/>
+             <triangular vertex1="schetchik-Tungsten_v14" vertex2="schetchik-Tungsten_v13" vertex3="schetchik-Tungsten_v15"/>
+             <triangular vertex1="schetchik-Tungsten_v14" vertex2="schetchik-Tungsten_v15" vertex3="schetchik-Tungsten_v16"/>
+             <triangular vertex1="schetchik-Tungsten_v16" vertex2="schetchik-Tungsten_v15" vertex3="schetchik-Tungsten_v17"/>
+             <triangular vertex1="schetchik-Tungsten_v16" vertex2="schetchik-Tungsten_v17" vertex3="schetchik-Tungsten_v18"/>
+             <triangular vertex1="schetchik-Tungsten_v18" vertex2="schetchik-Tungsten_v17" vertex3="schetchik-Tungsten_v19"/>
+             <triangular vertex1="schetchik-Tungsten_v18" vertex2="schetchik-Tungsten_v19" vertex3="schetchik-Tungsten_v20"/>
+             <triangular vertex1="schetchik-Tungsten_v20" vertex2="schetchik-Tungsten_v19" vertex3="schetchik-Tungsten_v21"/>
+             <triangular vertex1="schetchik-Tungsten_v20" vertex2="schetchik-Tungsten_v21" vertex3="schetchik-Tungsten_v22"/>
+             <triangular vertex1="schetchik-Tungsten_v22" vertex2="schetchik-Tungsten_v21" vertex3="schetchik-Tungsten_v23"/>
+             <triangular vertex1="schetchik-Tungsten_v22" vertex2="schetchik-Tungsten_v23" vertex3="schetchik-Tungsten_v24"/>
+             <triangular vertex1="schetchik-Tungsten_v24" vertex2="schetchik-Tungsten_v23" vertex3="schetchik-Tungsten_v25"/>
+             <triangular vertex1="schetchik-Tungsten_v24" vertex2="schetchik-Tungsten_v25" vertex3="schetchik-Tungsten_v26"/>
+             <triangular vertex1="schetchik-Tungsten_v26" vertex2="schetchik-Tungsten_v25" vertex3="schetchik-Tungsten_v27"/>
+             <triangular vertex1="schetchik-Tungsten_v26" vertex2="schetchik-Tungsten_v27" vertex3="schetchik-Tungsten_v28"/>
+             <triangular vertex1="schetchik-Tungsten_v28" vertex2="schetchik-Tungsten_v27" vertex3="schetchik-Tungsten_v29"/>
+             <triangular vertex1="schetchik-Tungsten_v28" vertex2="schetchik-Tungsten_v29" vertex3="schetchik-Tungsten_v30"/>
+             <triangular vertex1="schetchik-Tungsten_v30" vertex2="schetchik-Tungsten_v29" vertex3="schetchik-Tungsten_v31"/>
+             <triangular vertex1="schetchik-Tungsten_v30" vertex2="schetchik-Tungsten_v31" vertex3="schetchik-Tungsten_v32"/>
+             <triangular vertex1="schetchik-Tungsten_v32" vertex2="schetchik-Tungsten_v31" vertex3="schetchik-Tungsten_v33"/>
+             <triangular vertex1="schetchik-Tungsten_v32" vertex2="schetchik-Tungsten_v33" vertex3="schetchik-Tungsten_v34"/>
+             <triangular vertex1="schetchik-Tungsten_v34" vertex2="schetchik-Tungsten_v33" vertex3="schetchik-Tungsten_v35"/>
+             <triangular vertex1="schetchik-Tungsten_v34" vertex2="schetchik-Tungsten_v35" vertex3="schetchik-Tungsten_v36"/>
+             <triangular vertex1="schetchik-Tungsten_v36" vertex2="schetchik-Tungsten_v35" vertex3="schetchik-Tungsten_v37"/>
+             <triangular vertex1="schetchik-Tungsten_v36" vertex2="schetchik-Tungsten_v37" vertex3="schetchik-Tungsten_v38"/>
+             <triangular vertex1="schetchik-Tungsten_v38" vertex2="schetchik-Tungsten_v37" vertex3="schetchik-Tungsten_v39"/>
+             <triangular vertex1="schetchik-Tungsten_v38" vertex2="schetchik-Tungsten_v39" vertex3="schetchik-Tungsten_v40"/>
+             <triangular vertex1="schetchik-Tungsten_v40" vertex2="schetchik-Tungsten_v39" vertex3="schetchik-Tungsten_v41"/>
+             <triangular vertex1="schetchik-Tungsten_v40" vertex2="schetchik-Tungsten_v41" vertex3="schetchik-Tungsten_v42"/>
+             <triangular vertex1="schetchik-Tungsten_v42" vertex2="schetchik-Tungsten_v41" vertex3="schetchik-Tungsten_v43"/>
+             <triangular vertex1="schetchik-Tungsten_v42" vertex2="schetchik-Tungsten_v43" vertex3="schetchik-Tungsten_v44"/>
+             <triangular vertex1="schetchik-Tungsten_v44" vertex2="schetchik-Tungsten_v43" vertex3="schetchik-Tungsten_v45"/>
+             <triangular vertex1="schetchik-Tungsten_v44" vertex2="schetchik-Tungsten_v45" vertex3="schetchik-Tungsten_v46"/>
+             <triangular vertex1="schetchik-Tungsten_v46" vertex2="schetchik-Tungsten_v45" vertex3="schetchik-Tungsten_v47"/>
+             <triangular vertex1="schetchik-Tungsten_v46" vertex2="schetchik-Tungsten_v47" vertex3="schetchik-Tungsten_v48"/>
+             <triangular vertex1="schetchik-Tungsten_v48" vertex2="schetchik-Tungsten_v47" vertex3="schetchik-Tungsten_v49"/>
+             <triangular vertex1="schetchik-Tungsten_v48" vertex2="schetchik-Tungsten_v49" vertex3="schetchik-Tungsten_v50"/>
+             <triangular vertex1="schetchik-Tungsten_v50" vertex2="schetchik-Tungsten_v49" vertex3="schetchik-Tungsten_v51"/>
+             <triangular vertex1="schetchik-Tungsten_v50" vertex2="schetchik-Tungsten_v51" vertex3="schetchik-Tungsten_v52"/>
+             <triangular vertex1="schetchik-Tungsten_v52" vertex2="schetchik-Tungsten_v51" vertex3="schetchik-Tungsten_v53"/>
+             <triangular vertex1="schetchik-Tungsten_v52" vertex2="schetchik-Tungsten_v53" vertex3="schetchik-Tungsten_v54"/>
+             <triangular vertex1="schetchik-Tungsten_v54" vertex2="schetchik-Tungsten_v53" vertex3="schetchik-Tungsten_v55"/>
+             <triangular vertex1="schetchik-Tungsten_v54" vertex2="schetchik-Tungsten_v55" vertex3="schetchik-Tungsten_v56"/>
+             <triangular vertex1="schetchik-Tungsten_v56" vertex2="schetchik-Tungsten_v55" vertex3="schetchik-Tungsten_v57"/>
+             <triangular vertex1="schetchik-Tungsten_v56" vertex2="schetchik-Tungsten_v57" vertex3="schetchik-Tungsten_v58"/>
+             <triangular vertex1="schetchik-Tungsten_v58" vertex2="schetchik-Tungsten_v57" vertex3="schetchik-Tungsten_v59"/>
+             <triangular vertex1="schetchik-Tungsten_v58" vertex2="schetchik-Tungsten_v59" vertex3="schetchik-Tungsten_v60"/>
+             <triangular vertex1="schetchik-Tungsten_v60" vertex2="schetchik-Tungsten_v59" vertex3="schetchik-Tungsten_v61"/>
+             <triangular vertex1="schetchik-Tungsten_v60" vertex2="schetchik-Tungsten_v61" vertex3="schetchik-Tungsten_v62"/>
+             <triangular vertex1="schetchik-Tungsten_v62" vertex2="schetchik-Tungsten_v61" vertex3="schetchik-Tungsten_v63"/>
+             <triangular vertex1="schetchik-Tungsten_v62" vertex2="schetchik-Tungsten_v63" vertex3="schetchik-Tungsten_v64"/>
+             <triangular vertex1="schetchik-Tungsten_v64" vertex2="schetchik-Tungsten_v63" vertex3="schetchik-Tungsten_v65"/>
+             <triangular vertex1="schetchik-Tungsten_v64" vertex2="schetchik-Tungsten_v65" vertex3="schetchik-Tungsten_v66"/>
+             <triangular vertex1="schetchik-Tungsten_v66" vertex2="schetchik-Tungsten_v65" vertex3="schetchik-Tungsten_v67"/>
+             <triangular vertex1="schetchik-Tungsten_v66" vertex2="schetchik-Tungsten_v67" vertex3="schetchik-Tungsten_v68"/>
+             <triangular vertex1="schetchik-Tungsten_v68" vertex2="schetchik-Tungsten_v67" vertex3="schetchik-Tungsten_v69"/>
+             <triangular vertex1="schetchik-Tungsten_v68" vertex2="schetchik-Tungsten_v69" vertex3="schetchik-Tungsten_v70"/>
+             <triangular vertex1="schetchik-Tungsten_v70" vertex2="schetchik-Tungsten_v69" vertex3="schetchik-Tungsten_v71"/>
+             <triangular vertex1="schetchik-Tungsten_v70" vertex2="schetchik-Tungsten_v71" vertex3="schetchik-Tungsten_v0"/>
+             <triangular vertex1="schetchik-Tungsten_v0" vertex2="schetchik-Tungsten_v71" vertex3="schetchik-Tungsten_v1"/>
+             <triangular vertex1="schetchik-Tungsten_v39" vertex2="schetchik-Tungsten_v37" vertex3="schetchik-Tungsten_v72"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v37" vertex3="schetchik-Tungsten_v35"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v35" vertex3="schetchik-Tungsten_v33"/>
+             <triangular vertex1="schetchik-Tungsten_v45" vertex2="schetchik-Tungsten_v43" vertex3="schetchik-Tungsten_v72"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v43" vertex3="schetchik-Tungsten_v41"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v41" vertex3="schetchik-Tungsten_v39"/>
+             <triangular vertex1="schetchik-Tungsten_v51" vertex2="schetchik-Tungsten_v49" vertex3="schetchik-Tungsten_v72"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v49" vertex3="schetchik-Tungsten_v47"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v47" vertex3="schetchik-Tungsten_v45"/>
+             <triangular vertex1="schetchik-Tungsten_v57" vertex2="schetchik-Tungsten_v55" vertex3="schetchik-Tungsten_v72"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v55" vertex3="schetchik-Tungsten_v53"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v53" vertex3="schetchik-Tungsten_v51"/>
+             <triangular vertex1="schetchik-Tungsten_v63" vertex2="schetchik-Tungsten_v61" vertex3="schetchik-Tungsten_v72"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v61" vertex3="schetchik-Tungsten_v59"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v59" vertex3="schetchik-Tungsten_v57"/>
+             <triangular vertex1="schetchik-Tungsten_v69" vertex2="schetchik-Tungsten_v67" vertex3="schetchik-Tungsten_v72"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v67" vertex3="schetchik-Tungsten_v65"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v65" vertex3="schetchik-Tungsten_v63"/>
+             <triangular vertex1="schetchik-Tungsten_v3" vertex2="schetchik-Tungsten_v1" vertex3="schetchik-Tungsten_v72"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v1" vertex3="schetchik-Tungsten_v71"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v71" vertex3="schetchik-Tungsten_v69"/>
+             <triangular vertex1="schetchik-Tungsten_v9" vertex2="schetchik-Tungsten_v7" vertex3="schetchik-Tungsten_v72"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v7" vertex3="schetchik-Tungsten_v5"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v5" vertex3="schetchik-Tungsten_v3"/>
+             <triangular vertex1="schetchik-Tungsten_v15" vertex2="schetchik-Tungsten_v13" vertex3="schetchik-Tungsten_v72"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v13" vertex3="schetchik-Tungsten_v11"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v11" vertex3="schetchik-Tungsten_v9"/>
+             <triangular vertex1="schetchik-Tungsten_v21" vertex2="schetchik-Tungsten_v19" vertex3="schetchik-Tungsten_v72"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v19" vertex3="schetchik-Tungsten_v17"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v17" vertex3="schetchik-Tungsten_v15"/>
+             <triangular vertex1="schetchik-Tungsten_v27" vertex2="schetchik-Tungsten_v25" vertex3="schetchik-Tungsten_v72"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v25" vertex3="schetchik-Tungsten_v23"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v23" vertex3="schetchik-Tungsten_v21"/>
+             <triangular vertex1="schetchik-Tungsten_v33" vertex2="schetchik-Tungsten_v31" vertex3="schetchik-Tungsten_v72"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v31" vertex3="schetchik-Tungsten_v29"/>
+             <triangular vertex1="schetchik-Tungsten_v72" vertex2="schetchik-Tungsten_v29" vertex3="schetchik-Tungsten_v27"/>
+             <triangular vertex1="schetchik-Tungsten_v32" vertex2="schetchik-Tungsten_v34" vertex3="schetchik-Tungsten_v73"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v34" vertex3="schetchik-Tungsten_v36"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v36" vertex3="schetchik-Tungsten_v38"/>
+             <triangular vertex1="schetchik-Tungsten_v26" vertex2="schetchik-Tungsten_v28" vertex3="schetchik-Tungsten_v73"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v28" vertex3="schetchik-Tungsten_v30"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v30" vertex3="schetchik-Tungsten_v32"/>
+             <triangular vertex1="schetchik-Tungsten_v20" vertex2="schetchik-Tungsten_v22" vertex3="schetchik-Tungsten_v73"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v22" vertex3="schetchik-Tungsten_v24"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v24" vertex3="schetchik-Tungsten_v26"/>
+             <triangular vertex1="schetchik-Tungsten_v14" vertex2="schetchik-Tungsten_v16" vertex3="schetchik-Tungsten_v73"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v16" vertex3="schetchik-Tungsten_v18"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v18" vertex3="schetchik-Tungsten_v20"/>
+             <triangular vertex1="schetchik-Tungsten_v8" vertex2="schetchik-Tungsten_v10" vertex3="schetchik-Tungsten_v73"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v10" vertex3="schetchik-Tungsten_v12"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v12" vertex3="schetchik-Tungsten_v14"/>
+             <triangular vertex1="schetchik-Tungsten_v2" vertex2="schetchik-Tungsten_v4" vertex3="schetchik-Tungsten_v73"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v4" vertex3="schetchik-Tungsten_v6"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v6" vertex3="schetchik-Tungsten_v8"/>
+             <triangular vertex1="schetchik-Tungsten_v68" vertex2="schetchik-Tungsten_v70" vertex3="schetchik-Tungsten_v73"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v70" vertex3="schetchik-Tungsten_v0"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v0" vertex3="schetchik-Tungsten_v2"/>
+             <triangular vertex1="schetchik-Tungsten_v62" vertex2="schetchik-Tungsten_v64" vertex3="schetchik-Tungsten_v73"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v64" vertex3="schetchik-Tungsten_v66"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v66" vertex3="schetchik-Tungsten_v68"/>
+             <triangular vertex1="schetchik-Tungsten_v56" vertex2="schetchik-Tungsten_v58" vertex3="schetchik-Tungsten_v73"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v58" vertex3="schetchik-Tungsten_v60"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v60" vertex3="schetchik-Tungsten_v62"/>
+             <triangular vertex1="schetchik-Tungsten_v50" vertex2="schetchik-Tungsten_v52" vertex3="schetchik-Tungsten_v73"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v52" vertex3="schetchik-Tungsten_v54"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v54" vertex3="schetchik-Tungsten_v56"/>
+             <triangular vertex1="schetchik-Tungsten_v44" vertex2="schetchik-Tungsten_v46" vertex3="schetchik-Tungsten_v73"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v46" vertex3="schetchik-Tungsten_v48"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v48" vertex3="schetchik-Tungsten_v50"/>
+             <triangular vertex1="schetchik-Tungsten_v38" vertex2="schetchik-Tungsten_v40" vertex3="schetchik-Tungsten_v73"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v40" vertex3="schetchik-Tungsten_v42"/>
+             <triangular vertex1="schetchik-Tungsten_v73" vertex2="schetchik-Tungsten_v42" vertex3="schetchik-Tungsten_v44"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="schetchik-Tungsten">
+            <materialref ref="Tungsten"/>
+            <solidref ref="schetchik-Tungsten-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="schetchik-Tungsten"/>
+    </setup>
+</gdml>

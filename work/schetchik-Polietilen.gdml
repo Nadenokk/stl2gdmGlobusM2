@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="schetchik-Polietilen_v0" unit="mm" x="7072.528809" y="266.424286" z="1784.0"/>
+        <position name="schetchik-Polietilen_v1" unit="mm" x="7084.050781" y="265.469604" z="2247.0"/>
+        <position name="schetchik-Polietilen_v2" unit="mm" x="7084.050781" y="265.469604" z="1784.0"/>
+        <position name="schetchik-Polietilen_v3" unit="mm" x="7095.257812" y="262.6315" z="2247.0"/>
+        <position name="schetchik-Polietilen_v4" unit="mm" x="7095.257812" y="262.6315" z="1784.0"/>
+        <position name="schetchik-Polietilen_v5" unit="mm" x="7105.845215" y="257.987396" z="2247.0"/>
+        <position name="schetchik-Polietilen_v6" unit="mm" x="7105.845215" y="257.987396" z="1784.0"/>
+        <position name="schetchik-Polietilen_v7" unit="mm" x="7115.523926" y="251.664093" z="2247.0"/>
+        <position name="schetchik-Polietilen_v8" unit="mm" x="7115.523926" y="251.664093" z="1784.0"/>
+        <position name="schetchik-Polietilen_v9" unit="mm" x="7124.029785" y="243.834" z="2247.0"/>
+        <position name="schetchik-Polietilen_v10" unit="mm" x="7124.029785" y="243.834" z="1784.0"/>
+        <position name="schetchik-Polietilen_v11" unit="mm" x="7131.130859" y="234.710602" z="2247.0"/>
+        <position name="schetchik-Polietilen_v12" unit="mm" x="7131.130859" y="234.710602" z="1784.0"/>
+        <position name="schetchik-Polietilen_v13" unit="mm" x="7136.632812" y="224.542892" z="2247.0"/>
+        <position name="schetchik-Polietilen_v14" unit="mm" x="7136.632812" y="224.542892" z="1784.0"/>
+        <position name="schetchik-Polietilen_v15" unit="mm" x="7140.387207" y="213.6082" z="2247.0"/>
+        <position name="schetchik-Polietilen_v16" unit="mm" x="7140.387207" y="213.6082" z="1784.0"/>
+        <position name="schetchik-Polietilen_v17" unit="mm" x="7142.290039" y="202.204803" z="2247.0"/>
+        <position name="schetchik-Polietilen_v18" unit="mm" x="7142.290039" y="202.204803" z="1784.0"/>
+        <position name="schetchik-Polietilen_v19" unit="mm" x="7142.290039" y="190.643707" z="2247.0"/>
+        <position name="schetchik-Polietilen_v20" unit="mm" x="7142.290039" y="190.643707" z="1784.0"/>
+        <position name="schetchik-Polietilen_v21" unit="mm" x="7140.387207" y="179.240295" z="2247.0"/>
+        <position name="schetchik-Polietilen_v22" unit="mm" x="7140.387207" y="179.240295" z="1784.0"/>
+        <position name="schetchik-Polietilen_v23" unit="mm" x="7136.632812" y="168.305603" z="2247.0"/>
+        <position name="schetchik-Polietilen_v24" unit="mm" x="7136.632812" y="168.305603" z="1784.0"/>
+        <position name="schetchik-Polietilen_v25" unit="mm" x="7131.130859" y="158.137894" z="2247.0"/>
+        <position name="schetchik-Polietilen_v26" unit="mm" x="7131.130859" y="158.137894" z="1784.0"/>
+        <position name="schetchik-Polietilen_v27" unit="mm" x="7124.029785" y="149.014603" z="2247.0"/>
+        <position name="schetchik-Polietilen_v28" unit="mm" x="7124.029785" y="149.014603" z="1784.0"/>
+        <position name="schetchik-Polietilen_v29" unit="mm" x="7115.523926" y="141.184402" z="2247.0"/>
+        <position name="schetchik-Polietilen_v30" unit="mm" x="7115.523926" y="141.184402" z="1784.0"/>
+        <position name="schetchik-Polietilen_v31" unit="mm" x="7105.845215" y="134.861099" z="2247.0"/>
+        <position name="schetchik-Polietilen_v32" unit="mm" x="7105.845215" y="134.861099" z="1784.0"/>
+        <position name="schetchik-Polietilen_v33" unit="mm" x="7095.257812" y="130.217102" z="2247.0"/>
+        <position name="schetchik-Polietilen_v34" unit="mm" x="7095.257812" y="130.217102" z="1784.0"/>
+        <position name="schetchik-Polietilen_v35" unit="mm" x="7084.050781" y="127.378998" z="2247.0"/>
+        <position name="schetchik-Polietilen_v36" unit="mm" x="7084.050781" y="127.378998" z="1784.0"/>
+        <position name="schetchik-Polietilen_v37" unit="mm" x="7072.528809" y="126.424301" z="2247.0"/>
+        <position name="schetchik-Polietilen_v38" unit="mm" x="7072.528809" y="126.424301" z="1784.0"/>
+        <position name="schetchik-Polietilen_v39" unit="mm" x="7061.006836" y="127.378998" z="2247.0"/>
+        <position name="schetchik-Polietilen_v40" unit="mm" x="7061.006836" y="127.378998" z="1784.0"/>
+        <position name="schetchik-Polietilen_v41" unit="mm" x="7049.799805" y="130.217102" z="2247.0"/>
+        <position name="schetchik-Polietilen_v42" unit="mm" x="7049.799805" y="130.217102" z="1784.0"/>
+        <position name="schetchik-Polietilen_v43" unit="mm" x="7039.212891" y="134.861099" z="2247.0"/>
+        <position name="schetchik-Polietilen_v44" unit="mm" x="7039.212891" y="134.861099" z="1784.0"/>
+        <position name="schetchik-Polietilen_v45" unit="mm" x="7029.53418" y="141.184402" z="2247.0"/>
+        <position name="schetchik-Polietilen_v46" unit="mm" x="7029.53418" y="141.184402" z="1784.0"/>
+        <position name="schetchik-Polietilen_v47" unit="mm" x="7021.027832" y="149.014603" z="2247.0"/>
+        <position name="schetchik-Polietilen_v48" unit="mm" x="7021.027832" y="149.014603" z="1784.0"/>
+        <position name="schetchik-Polietilen_v49" unit="mm" x="7013.926758" y="158.137894" z="2247.0"/>
+        <position name="schetchik-Polietilen_v50" unit="mm" x="7013.926758" y="158.137894" z="1784.0"/>
+        <position name="schetchik-Polietilen_v51" unit="mm" x="7008.424805" y="168.305603" z="2247.0"/>
+        <position name="schetchik-Polietilen_v52" unit="mm" x="7008.424805" y="168.305603" z="1784.0"/>
+        <position name="schetchik-Polietilen_v53" unit="mm" x="7004.670898" y="179.240295" z="2247.0"/>
+        <position name="schetchik-Polietilen_v54" unit="mm" x="7004.670898" y="179.240295" z="1784.0"/>
+        <position name="schetchik-Polietilen_v55" unit="mm" x="7002.768066" y="190.643707" z="2247.0"/>
+        <position name="schetchik-Polietilen_v56" unit="mm" x="7002.768066" y="190.643707" z="1784.0"/>
+        <position name="schetchik-Polietilen_v57" unit="mm" x="7002.768066" y="202.204803" z="2247.0"/>
+        <position name="schetchik-Polietilen_v58" unit="mm" x="7002.768066" y="202.204803" z="1784.0"/>
+        <position name="schetchik-Polietilen_v59" unit="mm" x="7004.670898" y="213.6082" z="2247.0"/>
+        <position name="schetchik-Polietilen_v60" unit="mm" x="7004.670898" y="213.6082" z="1784.0"/>
+        <position name="schetchik-Polietilen_v61" unit="mm" x="7008.424805" y="224.542892" z="2247.0"/>
+        <position name="schetchik-Polietilen_v62" unit="mm" x="7008.424805" y="224.542892" z="1784.0"/>
+        <position name="schetchik-Polietilen_v63" unit="mm" x="7013.926758" y="234.710602" z="2247.0"/>
+        <position name="schetchik-Polietilen_v64" unit="mm" x="7013.926758" y="234.710602" z="1784.0"/>
+        <position name="schetchik-Polietilen_v65" unit="mm" x="7021.027832" y="243.834" z="2247.0"/>
+        <position name="schetchik-Polietilen_v66" unit="mm" x="7021.027832" y="243.834" z="1784.0"/>
+        <position name="schetchik-Polietilen_v67" unit="mm" x="7029.53418" y="251.664093" z="2247.0"/>
+        <position name="schetchik-Polietilen_v68" unit="mm" x="7029.53418" y="251.664093" z="1784.0"/>
+        <position name="schetchik-Polietilen_v69" unit="mm" x="7039.212891" y="257.987396" z="2247.0"/>
+        <position name="schetchik-Polietilen_v70" unit="mm" x="7039.212891" y="257.987396" z="1784.0"/>
+        <position name="schetchik-Polietilen_v71" unit="mm" x="7049.799805" y="262.6315" z="2247.0"/>
+        <position name="schetchik-Polietilen_v72" unit="mm" x="7049.799805" y="262.6315" z="1784.0"/>
+        <position name="schetchik-Polietilen_v73" unit="mm" x="7061.006836" y="265.469604" z="2247.0"/>
+        <position name="schetchik-Polietilen_v74" unit="mm" x="7061.006836" y="265.469604" z="1784.0"/>
+        <position name="schetchik-Polietilen_v75" unit="mm" x="7072.528809" y="266.424286" z="2247.0"/>
+        <position name="schetchik-Polietilen_v76" unit="mm" x="7072.528809" y="196.424301" z="2247.0"/>
+        <position name="schetchik-Polietilen_v77" unit="mm" x="7058.028809" y="196.424301" z="1784.0"/>
+        <position name="schetchik-Polietilen_v78" unit="mm" x="7058.249023" y="198.9422" z="1784.0"/>
+        <position name="schetchik-Polietilen_v79" unit="mm" x="7058.902832" y="201.383606" z="1784.0"/>
+        <position name="schetchik-Polietilen_v80" unit="mm" x="7059.972168" y="203.674301" z="1784.0"/>
+        <position name="schetchik-Polietilen_v81" unit="mm" x="7061.420898" y="205.744705" z="1784.0"/>
+        <position name="schetchik-Polietilen_v82" unit="mm" x="7063.208984" y="207.531906" z="1784.0"/>
+        <position name="schetchik-Polietilen_v83" unit="mm" x="7065.278809" y="208.981598" z="1784.0"/>
+        <position name="schetchik-Polietilen_v84" unit="mm" x="7067.569824" y="210.049805" z="1784.0"/>
+        <position name="schetchik-Polietilen_v85" unit="mm" x="7070.01123" y="210.703995" z="1784.0"/>
+        <position name="schetchik-Polietilen_v86" unit="mm" x="7072.528809" y="210.924301" z="1784.0"/>
+        <position name="schetchik-Polietilen_v87" unit="mm" x="7075.046875" y="210.703995" z="1784.0"/>
+        <position name="schetchik-Polietilen_v88" unit="mm" x="7077.487793" y="210.049805" z="1784.0"/>
+        <position name="schetchik-Polietilen_v89" unit="mm" x="7079.778809" y="208.981598" z="1784.0"/>
+        <position name="schetchik-Polietilen_v90" unit="mm" x="7081.849121" y="207.531906" z="1784.0"/>
+        <position name="schetchik-Polietilen_v91" unit="mm" x="7083.637207" y="205.744705" z="1784.0"/>
+        <position name="schetchik-Polietilen_v92" unit="mm" x="7085.085938" y="203.674301" z="1784.0"/>
+        <position name="schetchik-Polietilen_v93" unit="mm" x="7086.154785" y="201.383606" z="1784.0"/>
+        <position name="schetchik-Polietilen_v94" unit="mm" x="7086.809082" y="198.9422" z="1784.0"/>
+        <position name="schetchik-Polietilen_v95" unit="mm" x="7087.028809" y="196.424301" z="1784.0"/>
+        <position name="schetchik-Polietilen_v96" unit="mm" x="7086.809082" y="193.906403" z="1784.0"/>
+        <position name="schetchik-Polietilen_v97" unit="mm" x="7086.154785" y="191.464996" z="1784.0"/>
+        <position name="schetchik-Polietilen_v98" unit="mm" x="7085.085938" y="189.174301" z="1784.0"/>
+        <position name="schetchik-Polietilen_v99" unit="mm" x="7083.637207" y="187.103806" z="1784.0"/>
+        <position name="schetchik-Polietilen_v100" unit="mm" x="7081.849121" y="185.316605" z="1784.0"/>
+        <position name="schetchik-Polietilen_v101" unit="mm" x="7079.778809" y="183.866898" z="1784.0"/>
+        <position name="schetchik-Polietilen_v102" unit="mm" x="7077.487793" y="182.798706" z="1784.0"/>
+        <position name="schetchik-Polietilen_v103" unit="mm" x="7075.046875" y="182.144608" z="1784.0"/>
+        <position name="schetchik-Polietilen_v104" unit="mm" x="7072.528809" y="181.924301" z="1784.0"/>
+        <position name="schetchik-Polietilen_v105" unit="mm" x="7070.01123" y="182.144608" z="1784.0"/>
+        <position name="schetchik-Polietilen_v106" unit="mm" x="7067.569824" y="182.798706" z="1784.0"/>
+        <position name="schetchik-Polietilen_v107" unit="mm" x="7065.278809" y="183.866898" z="1784.0"/>
+        <position name="schetchik-Polietilen_v108" unit="mm" x="7063.208984" y="185.316605" z="1784.0"/>
+        <position name="schetchik-Polietilen_v109" unit="mm" x="7061.420898" y="187.103806" z="1784.0"/>
+        <position name="schetchik-Polietilen_v110" unit="mm" x="7059.972168" y="189.174301" z="1784.0"/>
+        <position name="schetchik-Polietilen_v111" unit="mm" x="7058.902832" y="191.464996" z="1784.0"/>
+        <position name="schetchik-Polietilen_v112" unit="mm" x="7058.249023" y="193.906403" z="1784.0"/>
+        <position name="schetchik-Polietilen_v113" unit="mm" x="7072.528809" y="210.924301" z="2194.0"/>
+        <position name="schetchik-Polietilen_v114" unit="mm" x="7075.046875" y="210.703995" z="2194.0"/>
+        <position name="schetchik-Polietilen_v115" unit="mm" x="7077.487793" y="210.049805" z="2194.0"/>
+        <position name="schetchik-Polietilen_v116" unit="mm" x="7079.778809" y="208.981598" z="2194.0"/>
+        <position name="schetchik-Polietilen_v117" unit="mm" x="7081.849121" y="207.531906" z="2194.0"/>
+        <position name="schetchik-Polietilen_v118" unit="mm" x="7083.637207" y="205.744705" z="2194.0"/>
+        <position name="schetchik-Polietilen_v119" unit="mm" x="7085.085938" y="203.674301" z="2194.0"/>
+        <position name="schetchik-Polietilen_v120" unit="mm" x="7086.154785" y="201.383606" z="2194.0"/>
+        <position name="schetchik-Polietilen_v121" unit="mm" x="7086.809082" y="198.9422" z="2194.0"/>
+        <position name="schetchik-Polietilen_v122" unit="mm" x="7087.028809" y="196.424301" z="2194.0"/>
+        <position name="schetchik-Polietilen_v123" unit="mm" x="7086.809082" y="193.906403" z="2194.0"/>
+        <position name="schetchik-Polietilen_v124" unit="mm" x="7086.154785" y="191.464996" z="2194.0"/>
+        <position name="schetchik-Polietilen_v125" unit="mm" x="7085.085938" y="189.174301" z="2194.0"/>
+        <position name="schetchik-Polietilen_v126" unit="mm" x="7083.637207" y="187.103806" z="2194.0"/>
+        <position name="schetchik-Polietilen_v127" unit="mm" x="7081.849121" y="185.316605" z="2194.0"/>
+        <position name="schetchik-Polietilen_v128" unit="mm" x="7079.778809" y="183.866898" z="2194.0"/>
+        <position name="schetchik-Polietilen_v129" unit="mm" x="7077.487793" y="182.798706" z="2194.0"/>
+        <position name="schetchik-Polietilen_v130" unit="mm" x="7075.046875" y="182.144608" z="2194.0"/>
+        <position name="schetchik-Polietilen_v131" unit="mm" x="7072.528809" y="181.924301" z="2194.0"/>
+        <position name="schetchik-Polietilen_v132" unit="mm" x="7070.01123" y="182.144608" z="2194.0"/>
+        <position name="schetchik-Polietilen_v133" unit="mm" x="7067.569824" y="182.798706" z="2194.0"/>
+        <position name="schetchik-Polietilen_v134" unit="mm" x="7065.278809" y="183.866898" z="2194.0"/>
+        <position name="schetchik-Polietilen_v135" unit="mm" x="7063.208984" y="185.316605" z="2194.0"/>
+        <position name="schetchik-Polietilen_v136" unit="mm" x="7061.420898" y="187.103806" z="2194.0"/>
+        <position name="schetchik-Polietilen_v137" unit="mm" x="7059.972168" y="189.174301" z="2194.0"/>
+        <position name="schetchik-Polietilen_v138" unit="mm" x="7058.902832" y="191.464996" z="2194.0"/>
+        <position name="schetchik-Polietilen_v139" unit="mm" x="7058.249023" y="193.906403" z="2194.0"/>
+        <position name="schetchik-Polietilen_v140" unit="mm" x="7058.028809" y="196.424301" z="2194.0"/>
+        <position name="schetchik-Polietilen_v141" unit="mm" x="7058.249023" y="198.9422" z="2194.0"/>
+        <position name="schetchik-Polietilen_v142" unit="mm" x="7058.902832" y="201.383606" z="2194.0"/>
+        <position name="schetchik-Polietilen_v143" unit="mm" x="7059.972168" y="203.674301" z="2194.0"/>
+        <position name="schetchik-Polietilen_v144" unit="mm" x="7061.420898" y="205.744705" z="2194.0"/>
+        <position name="schetchik-Polietilen_v145" unit="mm" x="7063.208984" y="207.531906" z="2194.0"/>
+        <position name="schetchik-Polietilen_v146" unit="mm" x="7065.278809" y="208.981598" z="2194.0"/>
+        <position name="schetchik-Polietilen_v147" unit="mm" x="7067.569824" y="210.049805" z="2194.0"/>
+        <position name="schetchik-Polietilen_v148" unit="mm" x="7070.01123" y="210.703995" z="2194.0"/>
+        <position name="schetchik-Polietilen_v149" unit="mm" x="7072.528809" y="196.424301" z="2194.0"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="schetchik-Polietilen-SOL">
+             <triangular vertex1="schetchik-Polietilen_v0" vertex2="schetchik-Polietilen_v1" vertex3="schetchik-Polietilen_v2"/>
+             <triangular vertex1="schetchik-Polietilen_v2" vertex2="schetchik-Polietilen_v1" vertex3="schetchik-Polietilen_v3"/>
+             <triangular vertex1="schetchik-Polietilen_v2" vertex2="schetchik-Polietilen_v3" vertex3="schetchik-Polietilen_v4"/>
+             <triangular vertex1="schetchik-Polietilen_v4" vertex2="schetchik-Polietilen_v3" vertex3="schetchik-Polietilen_v5"/>
+             <triangular vertex1="schetchik-Polietilen_v4" vertex2="schetchik-Polietilen_v5" vertex3="schetchik-Polietilen_v6"/>
+             <triangular vertex1="schetchik-Polietilen_v6" vertex2="schetchik-Polietilen_v5" vertex3="schetchik-Polietilen_v7"/>
+             <triangular vertex1="schetchik-Polietilen_v6" vertex2="schetchik-Polietilen_v7" vertex3="schetchik-Polietilen_v8"/>
+             <triangular vertex1="schetchik-Polietilen_v8" vertex2="schetchik-Polietilen_v7" vertex3="schetchik-Polietilen_v9"/>
+             <triangular vertex1="schetchik-Polietilen_v8" vertex2="schetchik-Polietilen_v9" vertex3="schetchik-Polietilen_v10"/>
+             <triangular vertex1="schetchik-Polietilen_v10" vertex2="schetchik-Polietilen_v9" vertex3="schetchik-Polietilen_v11"/>
+             <triangular vertex1="schetchik-Polietilen_v10" vertex2="schetchik-Polietilen_v11" vertex3="schetchik-Polietilen_v12"/>
+             <triangular vertex1="schetchik-Polietilen_v12" vertex2="schetchik-Polietilen_v11" vertex3="schetchik-Polietilen_v13"/>
+             <triangular vertex1="schetchik-Polietilen_v12" vertex2="schetchik-Polietilen_v13" vertex3="schetchik-Polietilen_v14"/>
+             <triangular vertex1="schetchik-Polietilen_v14" vertex2="schetchik-Polietilen_v13" vertex3="schetchik-Polietilen_v15"/>
+             <triangular vertex1="schetchik-Polietilen_v14" vertex2="schetchik-Polietilen_v15" vertex3="schetchik-Polietilen_v16"/>
+             <triangular vertex1="schetchik-Polietilen_v16" vertex2="schetchik-Polietilen_v15" vertex3="schetchik-Polietilen_v17"/>
+             <triangular vertex1="schetchik-Polietilen_v16" vertex2="schetchik-Polietilen_v17" vertex3="schetchik-Polietilen_v18"/>
+             <triangular vertex1="schetchik-Polietilen_v18" vertex2="schetchik-Polietilen_v17" vertex3="schetchik-Polietilen_v19"/>
+             <triangular vertex1="schetchik-Polietilen_v18" vertex2="schetchik-Polietilen_v19" vertex3="schetchik-Polietilen_v20"/>
+             <triangular vertex1="schetchik-Polietilen_v20" vertex2="schetchik-Polietilen_v19" vertex3="schetchik-Polietilen_v21"/>
+             <triangular vertex1="schetchik-Polietilen_v20" vertex2="schetchik-Polietilen_v21" vertex3="schetchik-Polietilen_v22"/>
+             <triangular vertex1="schetchik-Polietilen_v22" vertex2="schetchik-Polietilen_v21" vertex3="schetchik-Polietilen_v23"/>
+             <triangular vertex1="schetchik-Polietilen_v22" vertex2="schetchik-Polietilen_v23" vertex3="schetchik-Polietilen_v24"/>
+             <triangular vertex1="schetchik-Polietilen_v24" vertex2="schetchik-Polietilen_v23" vertex3="schetchik-Polietilen_v25"/>
+             <triangular vertex1="schetchik-Polietilen_v24" vertex2="schetchik-Polietilen_v25" vertex3="schetchik-Polietilen_v26"/>
+             <triangular vertex1="schetchik-Polietilen_v26" vertex2="schetchik-Polietilen_v25" vertex3="schetchik-Polietilen_v27"/>
+             <triangular vertex1="schetchik-Polietilen_v26" vertex2="schetchik-Polietilen_v27" vertex3="schetchik-Polietilen_v28"/>
+             <triangular vertex1="schetchik-Polietilen_v28" vertex2="schetchik-Polietilen_v27" vertex3="schetchik-Polietilen_v29"/>
+             <triangular vertex1="schetchik-Polietilen_v28" vertex2="schetchik-Polietilen_v29" vertex3="schetchik-Polietilen_v30"/>
+             <triangular vertex1="schetchik-Polietilen_v30" vertex2="schetchik-Polietilen_v29" vertex3="schetchik-Polietilen_v31"/>
+             <triangular vertex1="schetchik-Polietilen_v30" vertex2="schetchik-Polietilen_v31" vertex3="schetchik-Polietilen_v32"/>
+             <triangular vertex1="schetchik-Polietilen_v32" vertex2="schetchik-Polietilen_v31" vertex3="schetchik-Polietilen_v33"/>
+             <triangular vertex1="schetchik-Polietilen_v32" vertex2="schetchik-Polietilen_v33" vertex3="schetchik-Polietilen_v34"/>
+             <triangular vertex1="schetchik-Polietilen_v34" vertex2="schetchik-Polietilen_v33" vertex3="schetchik-Polietilen_v35"/>
+             <triangular vertex1="schetchik-Polietilen_v34" vertex2="schetchik-Polietilen_v35" vertex3="schetchik-Polietilen_v36"/>
+             <triangular vertex1="schetchik-Polietilen_v36" vertex2="schetchik-Polietilen_v35" vertex3="schetchik-Polietilen_v37"/>
+             <triangular vertex1="schetchik-Polietilen_v36" vertex2="schetchik-Polietilen_v37" vertex3="schetchik-Polietilen_v38"/>
+             <triangular vertex1="schetchik-Polietilen_v38" vertex2="schetchik-Polietilen_v37" vertex3="schetchik-Polietilen_v39"/>
+             <triangular vertex1="schetchik-Polietilen_v38" vertex2="schetchik-Polietilen_v39" vertex3="schetchik-Polietilen_v40"/>
+             <triangular vertex1="schetchik-Polietilen_v40" vertex2="schetchik-Polietilen_v39" vertex3="schetchik-Polietilen_v41"/>
+             <triangular vertex1="schetchik-Polietilen_v40" vertex2="schetchik-Polietilen_v41" vertex3="schetchik-Polietilen_v42"/>
+             <triangular vertex1="schetchik-Polietilen_v42" vertex2="schetchik-Polietilen_v41" vertex3="schetchik-Polietilen_v43"/>
+             <triangular vertex1="schetchik-Polietilen_v42" vertex2="schetchik-Polietilen_v43" vertex3="schetchik-Polietilen_v44"/>
+             <triangular vertex1="schetchik-Polietilen_v44" vertex2="schetchik-Polietilen_v43" vertex3="schetchik-Polietilen_v45"/>
+             <triangular vertex1="schetchik-Polietilen_v44" vertex2="schetchik-Polietilen_v45" vertex3="schetchik-Polietilen_v46"/>
+             <triangular vertex1="schetchik-Polietilen_v46" vertex2="schetchik-Polietilen_v45" vertex3="schetchik-Polietilen_v47"/>
+             <triangular vertex1="schetchik-Polietilen_v46" vertex2="schetchik-Polietilen_v47" vertex3="schetchik-Polietilen_v48"/>
+             <triangular vertex1="schetchik-Polietilen_v48" vertex2="schetchik-Polietilen_v47" vertex3="schetchik-Polietilen_v49"/>
+             <triangular vertex1="schetchik-Polietilen_v48" vertex2="schetchik-Polietilen_v49" vertex3="schetchik-Polietilen_v50"/>
+             <triangular vertex1="schetchik-Polietilen_v50" vertex2="schetchik-Polietilen_v49" vertex3="schetchik-Polietilen_v51"/>
+             <triangular vertex1="schetchik-Polietilen_v50" vertex2="schetchik-Polietilen_v51" vertex3="schetchik-Polietilen_v52"/>
+             <triangular vertex1="schetchik-Polietilen_v52" vertex2="schetchik-Polietilen_v51" vertex3="schetchik-Polietilen_v53"/>
+             <triangular vertex1="schetchik-Polietilen_v52" vertex2="schetchik-Polietilen_v53" vertex3="schetchik-Polietilen_v54"/>
+             <triangular vertex1="schetchik-Polietilen_v54" vertex2="schetchik-Polietilen_v53" vertex3="schetchik-Polietilen_v55"/>
+             <triangular vertex1="schetchik-Polietilen_v54" vertex2="schetchik-Polietilen_v55" vertex3="schetchik-Polietilen_v56"/>
+             <triangular vertex1="schetchik-Polietilen_v56" vertex2="schetchik-Polietilen_v55" vertex3="schetchik-Polietilen_v57"/>
+             <triangular vertex1="schetchik-Polietilen_v56" vertex2="schetchik-Polietilen_v57" vertex3="schetchik-Polietilen_v58"/>
+             <triangular vertex1="schetchik-Polietilen_v58" vertex2="schetchik-Polietilen_v57" vertex3="schetchik-Polietilen_v59"/>
+             <triangular vertex1="schetchik-Polietilen_v58" vertex2="schetchik-Polietilen_v59" vertex3="schetchik-Polietilen_v60"/>
+             <triangular vertex1="schetchik-Polietilen_v60" vertex2="schetchik-Polietilen_v59" vertex3="schetchik-Polietilen_v61"/>
+             <triangular vertex1="schetchik-Polietilen_v60" vertex2="schetchik-Polietilen_v61" vertex3="schetchik-Polietilen_v62"/>
+             <triangular vertex1="schetchik-Polietilen_v62" vertex2="schetchik-Polietilen_v61" vertex3="schetchik-Polietilen_v63"/>
+             <triangular vertex1="schetchik-Polietilen_v62" vertex2="schetchik-Polietilen_v63" vertex3="schetchik-Polietilen_v64"/>
+             <triangular vertex1="schetchik-Polietilen_v64" vertex2="schetchik-Polietilen_v63" vertex3="schetchik-Polietilen_v65"/>
+             <triangular vertex1="schetchik-Polietilen_v64" vertex2="schetchik-Polietilen_v65" vertex3="schetchik-Polietilen_v66"/>
+             <triangular vertex1="schetchik-Polietilen_v66" vertex2="schetchik-Polietilen_v65" vertex3="schetchik-Polietilen_v67"/>
+             <triangular vertex1="schetchik-Polietilen_v66" vertex2="schetchik-Polietilen_v67" vertex3="schetchik-Polietilen_v68"/>
+             <triangular vertex1="schetchik-Polietilen_v68" vertex2="schetchik-Polietilen_v67" vertex3="schetchik-Polietilen_v69"/>
+             <triangular vertex1="schetchik-Polietilen_v68" vertex2="schetchik-Polietilen_v69" vertex3="schetchik-Polietilen_v70"/>
+             <triangular vertex1="schetchik-Polietilen_v70" vertex2="schetchik-Polietilen_v69" vertex3="schetchik-Polietilen_v71"/>
+             <triangular vertex1="schetchik-Polietilen_v70" vertex2="schetchik-Polietilen_v71" vertex3="schetchik-Polietilen_v72"/>
+             <triangular vertex1="schetchik-Polietilen_v72" vertex2="schetchik-Polietilen_v71" vertex3="schetchik-Polietilen_v73"/>
+             <triangular vertex1="schetchik-Polietilen_v72" vertex2="schetchik-Polietilen_v73" vertex3="schetchik-Polietilen_v74"/>
+             <triangular vertex1="schetchik-Polietilen_v74" vertex2="schetchik-Polietilen_v73" vertex3="schetchik-Polietilen_v75"/>
+             <triangular vertex1="schetchik-Polietilen_v74" vertex2="schetchik-Polietilen_v75" vertex3="schetchik-Polietilen_v0"/>
+             <triangular vertex1="schetchik-Polietilen_v0" vertex2="schetchik-Polietilen_v75" vertex3="schetchik-Polietilen_v1"/>
+             <triangular vertex1="schetchik-Polietilen_v37" vertex2="schetchik-Polietilen_v35" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v37" vertex2="schetchik-Polietilen_v76" vertex3="schetchik-Polietilen_v39"/>
+             <triangular vertex1="schetchik-Polietilen_v45" vertex2="schetchik-Polietilen_v43" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v43" vertex3="schetchik-Polietilen_v41"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v41" vertex3="schetchik-Polietilen_v39"/>
+             <triangular vertex1="schetchik-Polietilen_v51" vertex2="schetchik-Polietilen_v49" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v49" vertex3="schetchik-Polietilen_v47"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v47" vertex3="schetchik-Polietilen_v45"/>
+             <triangular vertex1="schetchik-Polietilen_v57" vertex2="schetchik-Polietilen_v55" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v55" vertex3="schetchik-Polietilen_v53"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v53" vertex3="schetchik-Polietilen_v51"/>
+             <triangular vertex1="schetchik-Polietilen_v63" vertex2="schetchik-Polietilen_v61" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v61" vertex3="schetchik-Polietilen_v59"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v59" vertex3="schetchik-Polietilen_v57"/>
+             <triangular vertex1="schetchik-Polietilen_v69" vertex2="schetchik-Polietilen_v67" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v67" vertex3="schetchik-Polietilen_v65"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v65" vertex3="schetchik-Polietilen_v63"/>
+             <triangular vertex1="schetchik-Polietilen_v75" vertex2="schetchik-Polietilen_v73" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v73" vertex3="schetchik-Polietilen_v71"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v71" vertex3="schetchik-Polietilen_v69"/>
+             <triangular vertex1="schetchik-Polietilen_v5" vertex2="schetchik-Polietilen_v3" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v3" vertex3="schetchik-Polietilen_v1"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v1" vertex3="schetchik-Polietilen_v75"/>
+             <triangular vertex1="schetchik-Polietilen_v11" vertex2="schetchik-Polietilen_v9" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v9" vertex3="schetchik-Polietilen_v7"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v7" vertex3="schetchik-Polietilen_v5"/>
+             <triangular vertex1="schetchik-Polietilen_v17" vertex2="schetchik-Polietilen_v15" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v15" vertex3="schetchik-Polietilen_v13"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v13" vertex3="schetchik-Polietilen_v11"/>
+             <triangular vertex1="schetchik-Polietilen_v23" vertex2="schetchik-Polietilen_v21" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v21" vertex3="schetchik-Polietilen_v19"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v19" vertex3="schetchik-Polietilen_v17"/>
+             <triangular vertex1="schetchik-Polietilen_v29" vertex2="schetchik-Polietilen_v27" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v27" vertex3="schetchik-Polietilen_v25"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v25" vertex3="schetchik-Polietilen_v23"/>
+             <triangular vertex1="schetchik-Polietilen_v35" vertex2="schetchik-Polietilen_v33" vertex3="schetchik-Polietilen_v76"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v33" vertex3="schetchik-Polietilen_v31"/>
+             <triangular vertex1="schetchik-Polietilen_v76" vertex2="schetchik-Polietilen_v31" vertex3="schetchik-Polietilen_v29"/>
+             <triangular vertex1="schetchik-Polietilen_v77" vertex2="schetchik-Polietilen_v58" vertex3="schetchik-Polietilen_v78"/>
+             <triangular vertex1="schetchik-Polietilen_v78" vertex2="schetchik-Polietilen_v58" vertex3="schetchik-Polietilen_v60"/>
+             <triangular vertex1="schetchik-Polietilen_v78" vertex2="schetchik-Polietilen_v60" vertex3="schetchik-Polietilen_v79"/>
+             <triangular vertex1="schetchik-Polietilen_v79" vertex2="schetchik-Polietilen_v60" vertex3="schetchik-Polietilen_v62"/>
+             <triangular vertex1="schetchik-Polietilen_v79" vertex2="schetchik-Polietilen_v62" vertex3="schetchik-Polietilen_v80"/>
+             <triangular vertex1="schetchik-Polietilen_v80" vertex2="schetchik-Polietilen_v62" vertex3="schetchik-Polietilen_v64"/>
+             <triangular vertex1="schetchik-Polietilen_v80" vertex2="schetchik-Polietilen_v64" vertex3="schetchik-Polietilen_v81"/>
+             <triangular vertex1="schetchik-Polietilen_v81" vertex2="schetchik-Polietilen_v64" vertex3="schetchik-Polietilen_v66"/>
+             <triangular vertex1="schetchik-Polietilen_v81" vertex2="schetchik-Polietilen_v66" vertex3="schetchik-Polietilen_v82"/>
+             <triangular vertex1="schetchik-Polietilen_v82" vertex2="schetchik-Polietilen_v66" vertex3="schetchik-Polietilen_v68"/>
+             <triangular vertex1="schetchik-Polietilen_v82" vertex2="schetchik-Polietilen_v68" vertex3="schetchik-Polietilen_v83"/>
+             <triangular vertex1="schetchik-Polietilen_v83" vertex2="schetchik-Polietilen_v68" vertex3="schetchik-Polietilen_v70"/>
+             <triangular vertex1="schetchik-Polietilen_v83" vertex2="schetchik-Polietilen_v70" vertex3="schetchik-Polietilen_v84"/>
+             <triangular vertex1="schetchik-Polietilen_v84" vertex2="schetchik-Polietilen_v70" vertex3="schetchik-Polietilen_v72"/>
+             <triangular vertex1="schetchik-Polietilen_v84" vertex2="schetchik-Polietilen_v72" vertex3="schetchik-Polietilen_v85"/>
+             <triangular vertex1="schetchik-Polietilen_v85" vertex2="schetchik-Polietilen_v72" vertex3="schetchik-Polietilen_v74"/>
+             <triangular vertex1="schetchik-Polietilen_v85" vertex2="schetchik-Polietilen_v74" vertex3="schetchik-Polietilen_v86"/>
+             <triangular vertex1="schetchik-Polietilen_v86" vertex2="schetchik-Polietilen_v74" vertex3="schetchik-Polietilen_v0"/>
+             <triangular vertex1="schetchik-Polietilen_v86" vertex2="schetchik-Polietilen_v0" vertex3="schetchik-Polietilen_v87"/>
+             <triangular vertex1="schetchik-Polietilen_v87" vertex2="schetchik-Polietilen_v0" vertex3="schetchik-Polietilen_v2"/>
+             <triangular vertex1="schetchik-Polietilen_v87" vertex2="schetchik-Polietilen_v2" vertex3="schetchik-Polietilen_v88"/>
+             <triangular vertex1="schetchik-Polietilen_v88" vertex2="schetchik-Polietilen_v2" vertex3="schetchik-Polietilen_v4"/>
+             <triangular vertex1="schetchik-Polietilen_v88" vertex2="schetchik-Polietilen_v4" vertex3="schetchik-Polietilen_v89"/>
+             <triangular vertex1="schetchik-Polietilen_v89" vertex2="schetchik-Polietilen_v4" vertex3="schetchik-Polietilen_v6"/>
+             <triangular vertex1="schetchik-Polietilen_v89" vertex2="schetchik-Polietilen_v6" vertex3="schetchik-Polietilen_v90"/>
+             <triangular vertex1="schetchik-Polietilen_v90" vertex2="schetchik-Polietilen_v6" vertex3="schetchik-Polietilen_v8"/>
+             <triangular vertex1="schetchik-Polietilen_v90" vertex2="schetchik-Polietilen_v8" vertex3="schetchik-Polietilen_v91"/>
+             <triangular vertex1="schetchik-Polietilen_v91" vertex2="schetchik-Polietilen_v8" vertex3="schetchik-Polietilen_v10"/>
+             <triangular vertex1="schetchik-Polietilen_v91" vertex2="schetchik-Polietilen_v10" vertex3="schetchik-Polietilen_v92"/>
+             <triangular vertex1="schetchik-Polietilen_v92" vertex2="schetchik-Polietilen_v10" vertex3="schetchik-Polietilen_v12"/>
+             <triangular vertex1="schetchik-Polietilen_v92" vertex2="schetchik-Polietilen_v12" vertex3="schetchik-Polietilen_v93"/>
+             <triangular vertex1="schetchik-Polietilen_v93" vertex2="schetchik-Polietilen_v12" vertex3="schetchik-Polietilen_v14"/>
+             <triangular vertex1="schetchik-Polietilen_v93" vertex2="schetchik-Polietilen_v14" vertex3="schetchik-Polietilen_v94"/>
+             <triangular vertex1="schetchik-Polietilen_v94" vertex2="schetchik-Polietilen_v14" vertex3="schetchik-Polietilen_v16"/>
+             <triangular vertex1="schetchik-Polietilen_v94" vertex2="schetchik-Polietilen_v16" vertex3="schetchik-Polietilen_v95"/>
+             <triangular vertex1="schetchik-Polietilen_v16" vertex2="schetchik-Polietilen_v18" vertex3="schetchik-Polietilen_v95"/>
+             <triangular vertex1="schetchik-Polietilen_v95" vertex2="schetchik-Polietilen_v18" vertex3="schetchik-Polietilen_v20"/>
+             <triangular vertex1="schetchik-Polietilen_v95" vertex2="schetchik-Polietilen_v20" vertex3="schetchik-Polietilen_v96"/>
+             <triangular vertex1="schetchik-Polietilen_v96" vertex2="schetchik-Polietilen_v20" vertex3="schetchik-Polietilen_v22"/>
+             <triangular vertex1="schetchik-Polietilen_v96" vertex2="schetchik-Polietilen_v22" vertex3="schetchik-Polietilen_v97"/>
+             <triangular vertex1="schetchik-Polietilen_v97" vertex2="schetchik-Polietilen_v22" vertex3="schetchik-Polietilen_v24"/>
+             <triangular vertex1="schetchik-Polietilen_v97" vertex2="schetchik-Polietilen_v24" vertex3="schetchik-Polietilen_v98"/>
+             <triangular vertex1="schetchik-Polietilen_v98" vertex2="schetchik-Polietilen_v24" vertex3="schetchik-Polietilen_v26"/>
+             <triangular vertex1="schetchik-Polietilen_v98" vertex2="schetchik-Polietilen_v26" vertex3="schetchik-Polietilen_v99"/>
+             <triangular vertex1="schetchik-Polietilen_v99" vertex2="schetchik-Polietilen_v26" vertex3="schetchik-Polietilen_v28"/>
+             <triangular vertex1="schetchik-Polietilen_v99" vertex2="schetchik-Polietilen_v28" vertex3="schetchik-Polietilen_v100"/>
+             <triangular vertex1="schetchik-Polietilen_v100" vertex2="schetchik-Polietilen_v28" vertex3="schetchik-Polietilen_v30"/>
+             <triangular vertex1="schetchik-Polietilen_v100" vertex2="schetchik-Polietilen_v30" vertex3="schetchik-Polietilen_v101"/>
+             <triangular vertex1="schetchik-Polietilen_v101" vertex2="schetchik-Polietilen_v30" vertex3="schetchik-Polietilen_v32"/>
+             <triangular vertex1="schetchik-Polietilen_v101" vertex2="schetchik-Polietilen_v32" vertex3="schetchik-Polietilen_v102"/>
+             <triangular vertex1="schetchik-Polietilen_v102" vertex2="schetchik-Polietilen_v32" vertex3="schetchik-Polietilen_v34"/>
+             <triangular vertex1="schetchik-Polietilen_v102" vertex2="schetchik-Polietilen_v34" vertex3="schetchik-Polietilen_v103"/>
+             <triangular vertex1="schetchik-Polietilen_v103" vertex2="schetchik-Polietilen_v34" vertex3="schetchik-Polietilen_v36"/>
+             <triangular vertex1="schetchik-Polietilen_v103" vertex2="schetchik-Polietilen_v36" vertex3="schetchik-Polietilen_v104"/>
+             <triangular vertex1="schetchik-Polietilen_v104" vertex2="schetchik-Polietilen_v36" vertex3="schetchik-Polietilen_v38"/>
+             <triangular vertex1="schetchik-Polietilen_v104" vertex2="schetchik-Polietilen_v38" vertex3="schetchik-Polietilen_v105"/>
+             <triangular vertex1="schetchik-Polietilen_v105" vertex2="schetchik-Polietilen_v38" vertex3="schetchik-Polietilen_v40"/>
+             <triangular vertex1="schetchik-Polietilen_v105" vertex2="schetchik-Polietilen_v40" vertex3="schetchik-Polietilen_v106"/>
+             <triangular vertex1="schetchik-Polietilen_v106" vertex2="schetchik-Polietilen_v40" vertex3="schetchik-Polietilen_v42"/>
+             <triangular vertex1="schetchik-Polietilen_v106" vertex2="schetchik-Polietilen_v42" vertex3="schetchik-Polietilen_v107"/>
+             <triangular vertex1="schetchik-Polietilen_v107" vertex2="schetchik-Polietilen_v42" vertex3="schetchik-Polietilen_v44"/>
+             <triangular vertex1="schetchik-Polietilen_v107" vertex2="schetchik-Polietilen_v44" vertex3="schetchik-Polietilen_v108"/>
+             <triangular vertex1="schetchik-Polietilen_v108" vertex2="schetchik-Polietilen_v44" vertex3="schetchik-Polietilen_v46"/>
+             <triangular vertex1="schetchik-Polietilen_v108" vertex2="schetchik-Polietilen_v46" vertex3="schetchik-Polietilen_v109"/>
+             <triangular vertex1="schetchik-Polietilen_v109" vertex2="schetchik-Polietilen_v46" vertex3="schetchik-Polietilen_v48"/>
+             <triangular vertex1="schetchik-Polietilen_v109" vertex2="schetchik-Polietilen_v48" vertex3="schetchik-Polietilen_v110"/>
+             <triangular vertex1="schetchik-Polietilen_v110" vertex2="schetchik-Polietilen_v48" vertex3="schetchik-Polietilen_v50"/>
+             <triangular vertex1="schetchik-Polietilen_v110" vertex2="schetchik-Polietilen_v50" vertex3="schetchik-Polietilen_v111"/>
+             <triangular vertex1="schetchik-Polietilen_v111" vertex2="schetchik-Polietilen_v50" vertex3="schetchik-Polietilen_v52"/>
+             <triangular vertex1="schetchik-Polietilen_v111" vertex2="schetchik-Polietilen_v52" vertex3="schetchik-Polietilen_v112"/>
+             <triangular vertex1="schetchik-Polietilen_v112" vertex2="schetchik-Polietilen_v52" vertex3="schetchik-Polietilen_v54"/>
+             <triangular vertex1="schetchik-Polietilen_v112" vertex2="schetchik-Polietilen_v54" vertex3="schetchik-Polietilen_v77"/>
+             <triangular vertex1="schetchik-Polietilen_v77" vertex2="schetchik-Polietilen_v54" vertex3="schetchik-Polietilen_v56"/>
+             <triangular vertex1="schetchik-Polietilen_v77" vertex2="schetchik-Polietilen_v56" vertex3="schetchik-Polietilen_v58"/>
+             <triangular vertex1="schetchik-Polietilen_v113" vertex2="schetchik-Polietilen_v86" vertex3="schetchik-Polietilen_v114"/>
+             <triangular vertex1="schetchik-Polietilen_v114" vertex2="schetchik-Polietilen_v86" vertex3="schetchik-Polietilen_v87"/>
+             <triangular vertex1="schetchik-Polietilen_v114" vertex2="schetchik-Polietilen_v87" vertex3="schetchik-Polietilen_v115"/>
+             <triangular vertex1="schetchik-Polietilen_v115" vertex2="schetchik-Polietilen_v87" vertex3="schetchik-Polietilen_v88"/>
+             <triangular vertex1="schetchik-Polietilen_v115" vertex2="schetchik-Polietilen_v88" vertex3="schetchik-Polietilen_v116"/>
+             <triangular vertex1="schetchik-Polietilen_v116" vertex2="schetchik-Polietilen_v88" vertex3="schetchik-Polietilen_v89"/>
+             <triangular vertex1="schetchik-Polietilen_v116" vertex2="schetchik-Polietilen_v89" vertex3="schetchik-Polietilen_v117"/>
+             <triangular vertex1="schetchik-Polietilen_v117" vertex2="schetchik-Polietilen_v89" vertex3="schetchik-Polietilen_v90"/>
+             <triangular vertex1="schetchik-Polietilen_v117" vertex2="schetchik-Polietilen_v90" vertex3="schetchik-Polietilen_v118"/>
+             <triangular vertex1="schetchik-Polietilen_v118" vertex2="schetchik-Polietilen_v90" vertex3="schetchik-Polietilen_v91"/>
+             <triangular vertex1="schetchik-Polietilen_v118" vertex2="schetchik-Polietilen_v91" vertex3="schetchik-Polietilen_v119"/>
+             <triangular vertex1="schetchik-Polietilen_v119" vertex2="schetchik-Polietilen_v91" vertex3="schetchik-Polietilen_v92"/>
+             <triangular vertex1="schetchik-Polietilen_v119" vertex2="schetchik-Polietilen_v92" vertex3="schetchik-Polietilen_v120"/>
+             <triangular vertex1="schetchik-Polietilen_v120" vertex2="schetchik-Polietilen_v92" vertex3="schetchik-Polietilen_v93"/>
+             <triangular vertex1="schetchik-Polietilen_v120" vertex2="schetchik-Polietilen_v93" vertex3="schetchik-Polietilen_v121"/>
+             <triangular vertex1="schetchik-Polietilen_v121" vertex2="schetchik-Polietilen_v93" vertex3="schetchik-Polietilen_v94"/>
+             <triangular vertex1="schetchik-Polietilen_v121" vertex2="schetchik-Polietilen_v94" vertex3="schetchik-Polietilen_v122"/>
+             <triangular vertex1="schetchik-Polietilen_v122" vertex2="schetchik-Polietilen_v94" vertex3="schetchik-Polietilen_v95"/>
+             <triangular vertex1="schetchik-Polietilen_v122" vertex2="schetchik-Polietilen_v95" vertex3="schetchik-Polietilen_v123"/>
+             <triangular vertex1="schetchik-Polietilen_v123" vertex2="schetchik-Polietilen_v95" vertex3="schetchik-Polietilen_v96"/>
+             <triangular vertex1="schetchik-Polietilen_v123" vertex2="schetchik-Polietilen_v96" vertex3="schetchik-Polietilen_v124"/>
+             <triangular vertex1="schetchik-Polietilen_v124" vertex2="schetchik-Polietilen_v96" vertex3="schetchik-Polietilen_v97"/>
+             <triangular vertex1="schetchik-Polietilen_v124" vertex2="schetchik-Polietilen_v97" vertex3="schetchik-Polietilen_v125"/>
+             <triangular vertex1="schetchik-Polietilen_v125" vertex2="schetchik-Polietilen_v97" vertex3="schetchik-Polietilen_v98"/>
+             <triangular vertex1="schetchik-Polietilen_v125" vertex2="schetchik-Polietilen_v98" vertex3="schetchik-Polietilen_v126"/>
+             <triangular vertex1="schetchik-Polietilen_v126" vertex2="schetchik-Polietilen_v98" vertex3="schetchik-Polietilen_v99"/>
+             <triangular vertex1="schetchik-Polietilen_v126" vertex2="schetchik-Polietilen_v99" vertex3="schetchik-Polietilen_v127"/>
+             <triangular vertex1="schetchik-Polietilen_v127" vertex2="schetchik-Polietilen_v99" vertex3="schetchik-Polietilen_v100"/>
+             <triangular vertex1="schetchik-Polietilen_v127" vertex2="schetchik-Polietilen_v100" vertex3="schetchik-Polietilen_v128"/>
+             <triangular vertex1="schetchik-Polietilen_v128" vertex2="schetchik-Polietilen_v100" vertex3="schetchik-Polietilen_v101"/>
+             <triangular vertex1="schetchik-Polietilen_v128" vertex2="schetchik-Polietilen_v101" vertex3="schetchik-Polietilen_v129"/>
+             <triangular vertex1="schetchik-Polietilen_v129" vertex2="schetchik-Polietilen_v101" vertex3="schetchik-Polietilen_v102"/>
+             <triangular vertex1="schetchik-Polietilen_v129" vertex2="schetchik-Polietilen_v102" vertex3="schetchik-Polietilen_v130"/>
+             <triangular vertex1="schetchik-Polietilen_v130" vertex2="schetchik-Polietilen_v102" vertex3="schetchik-Polietilen_v103"/>
+             <triangular vertex1="schetchik-Polietilen_v130" vertex2="schetchik-Polietilen_v103" vertex3="schetchik-Polietilen_v131"/>
+             <triangular vertex1="schetchik-Polietilen_v131" vertex2="schetchik-Polietilen_v103" vertex3="schetchik-Polietilen_v104"/>
+             <triangular vertex1="schetchik-Polietilen_v131" vertex2="schetchik-Polietilen_v104" vertex3="schetchik-Polietilen_v132"/>
+             <triangular vertex1="schetchik-Polietilen_v132" vertex2="schetchik-Polietilen_v104" vertex3="schetchik-Polietilen_v105"/>
+             <triangular vertex1="schetchik-Polietilen_v132" vertex2="schetchik-Polietilen_v105" vertex3="schetchik-Polietilen_v133"/>
+             <triangular vertex1="schetchik-Polietilen_v133" vertex2="schetchik-Polietilen_v105" vertex3="schetchik-Polietilen_v106"/>
+             <triangular vertex1="schetchik-Polietilen_v133" vertex2="schetchik-Polietilen_v106" vertex3="schetchik-Polietilen_v134"/>
+             <triangular vertex1="schetchik-Polietilen_v134" vertex2="schetchik-Polietilen_v106" vertex3="schetchik-Polietilen_v107"/>
+             <triangular vertex1="schetchik-Polietilen_v134" vertex2="schetchik-Polietilen_v107" vertex3="schetchik-Polietilen_v135"/>
+             <triangular vertex1="schetchik-Polietilen_v135" vertex2="schetchik-Polietilen_v107" vertex3="schetchik-Polietilen_v108"/>
+             <triangular vertex1="schetchik-Polietilen_v135" vertex2="schetchik-Polietilen_v108" vertex3="schetchik-Polietilen_v136"/>
+             <triangular vertex1="schetchik-Polietilen_v136" vertex2="schetchik-Polietilen_v108" vertex3="schetchik-Polietilen_v109"/>
+             <triangular vertex1="schetchik-Polietilen_v136" vertex2="schetchik-Polietilen_v109" vertex3="schetchik-Polietilen_v137"/>
+             <triangular vertex1="schetchik-Polietilen_v137" vertex2="schetchik-Polietilen_v109" vertex3="schetchik-Polietilen_v110"/>
+             <triangular vertex1="schetchik-Polietilen_v137" vertex2="schetchik-Polietilen_v110" vertex3="schetchik-Polietilen_v138"/>
+             <triangular vertex1="schetchik-Polietilen_v138" vertex2="schetchik-Polietilen_v110" vertex3="schetchik-Polietilen_v111"/>
+             <triangular vertex1="schetchik-Polietilen_v138" vertex2="schetchik-Polietilen_v111" vertex3="schetchik-Polietilen_v139"/>
+             <triangular vertex1="schetchik-Polietilen_v139" vertex2="schetchik-Polietilen_v111" vertex3="schetchik-Polietilen_v112"/>
+             <triangular vertex1="schetchik-Polietilen_v139" vertex2="schetchik-Polietilen_v112" vertex3="schetchik-Polietilen_v140"/>
+             <triangular vertex1="schetchik-Polietilen_v140" vertex2="schetchik-Polietilen_v112" vertex3="schetchik-Polietilen_v77"/>
+             <triangular vertex1="schetchik-Polietilen_v140" vertex2="schetchik-Polietilen_v77" vertex3="schetchik-Polietilen_v141"/>
+             <triangular vertex1="schetchik-Polietilen_v141" vertex2="schetchik-Polietilen_v77" vertex3="schetchik-Polietilen_v78"/>
+             <triangular vertex1="schetchik-Polietilen_v141" vertex2="schetchik-Polietilen_v78" vertex3="schetchik-Polietilen_v142"/>
+             <triangular vertex1="schetchik-Polietilen_v142" vertex2="schetchik-Polietilen_v78" vertex3="schetchik-Polietilen_v79"/>
+             <triangular vertex1="schetchik-Polietilen_v142" vertex2="schetchik-Polietilen_v79" vertex3="schetchik-Polietilen_v143"/>
+             <triangular vertex1="schetchik-Polietilen_v143" vertex2="schetchik-Polietilen_v79" vertex3="schetchik-Polietilen_v80"/>
+             <triangular vertex1="schetchik-Polietilen_v143" vertex2="schetchik-Polietilen_v80" vertex3="schetchik-Polietilen_v144"/>
+             <triangular vertex1="schetchik-Polietilen_v144" vertex2="schetchik-Polietilen_v80" vertex3="schetchik-Polietilen_v81"/>
+             <triangular vertex1="schetchik-Polietilen_v144" vertex2="schetchik-Polietilen_v81" vertex3="schetchik-Polietilen_v145"/>
+             <triangular vertex1="schetchik-Polietilen_v145" vertex2="schetchik-Polietilen_v81" vertex3="schetchik-Polietilen_v82"/>
+             <triangular vertex1="schetchik-Polietilen_v145" vertex2="schetchik-Polietilen_v82" vertex3="schetchik-Polietilen_v146"/>
+             <triangular vertex1="schetchik-Polietilen_v146" vertex2="schetchik-Polietilen_v82" vertex3="schetchik-Polietilen_v83"/>
+             <triangular vertex1="schetchik-Polietilen_v146" vertex2="schetchik-Polietilen_v83" vertex3="schetchik-Polietilen_v147"/>
+             <triangular vertex1="schetchik-Polietilen_v147" vertex2="schetchik-Polietilen_v83" vertex3="schetchik-Polietilen_v84"/>
+             <triangular vertex1="schetchik-Polietilen_v147" vertex2="schetchik-Polietilen_v84" vertex3="schetchik-Polietilen_v148"/>
+             <triangular vertex1="schetchik-Polietilen_v148" vertex2="schetchik-Polietilen_v84" vertex3="schetchik-Polietilen_v85"/>
+             <triangular vertex1="schetchik-Polietilen_v148" vertex2="schetchik-Polietilen_v85" vertex3="schetchik-Polietilen_v113"/>
+             <triangular vertex1="schetchik-Polietilen_v113" vertex2="schetchik-Polietilen_v85" vertex3="schetchik-Polietilen_v86"/>
+             <triangular vertex1="schetchik-Polietilen_v147" vertex2="schetchik-Polietilen_v148" vertex3="schetchik-Polietilen_v149"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v148" vertex3="schetchik-Polietilen_v113"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v113" vertex3="schetchik-Polietilen_v114"/>
+             <triangular vertex1="schetchik-Polietilen_v144" vertex2="schetchik-Polietilen_v145" vertex3="schetchik-Polietilen_v149"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v145" vertex3="schetchik-Polietilen_v146"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v146" vertex3="schetchik-Polietilen_v147"/>
+             <triangular vertex1="schetchik-Polietilen_v141" vertex2="schetchik-Polietilen_v142" vertex3="schetchik-Polietilen_v149"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v142" vertex3="schetchik-Polietilen_v143"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v143" vertex3="schetchik-Polietilen_v144"/>
+             <triangular vertex1="schetchik-Polietilen_v138" vertex2="schetchik-Polietilen_v139" vertex3="schetchik-Polietilen_v149"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v139" vertex3="schetchik-Polietilen_v140"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v140" vertex3="schetchik-Polietilen_v141"/>
+             <triangular vertex1="schetchik-Polietilen_v135" vertex2="schetchik-Polietilen_v136" vertex3="schetchik-Polietilen_v149"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v136" vertex3="schetchik-Polietilen_v137"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v137" vertex3="schetchik-Polietilen_v138"/>
+             <triangular vertex1="schetchik-Polietilen_v132" vertex2="schetchik-Polietilen_v133" vertex3="schetchik-Polietilen_v149"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v133" vertex3="schetchik-Polietilen_v134"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v134" vertex3="schetchik-Polietilen_v135"/>
+             <triangular vertex1="schetchik-Polietilen_v129" vertex2="schetchik-Polietilen_v130" vertex3="schetchik-Polietilen_v149"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v130" vertex3="schetchik-Polietilen_v131"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v131" vertex3="schetchik-Polietilen_v132"/>
+             <triangular vertex1="schetchik-Polietilen_v126" vertex2="schetchik-Polietilen_v127" vertex3="schetchik-Polietilen_v149"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v127" vertex3="schetchik-Polietilen_v128"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v128" vertex3="schetchik-Polietilen_v129"/>
+             <triangular vertex1="schetchik-Polietilen_v123" vertex2="schetchik-Polietilen_v124" vertex3="schetchik-Polietilen_v149"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v124" vertex3="schetchik-Polietilen_v125"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v125" vertex3="schetchik-Polietilen_v126"/>
+             <triangular vertex1="schetchik-Polietilen_v120" vertex2="schetchik-Polietilen_v121" vertex3="schetchik-Polietilen_v149"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v121" vertex3="schetchik-Polietilen_v122"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v122" vertex3="schetchik-Polietilen_v123"/>
+             <triangular vertex1="schetchik-Polietilen_v117" vertex2="schetchik-Polietilen_v118" vertex3="schetchik-Polietilen_v149"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v118" vertex3="schetchik-Polietilen_v119"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v119" vertex3="schetchik-Polietilen_v120"/>
+             <triangular vertex1="schetchik-Polietilen_v114" vertex2="schetchik-Polietilen_v115" vertex3="schetchik-Polietilen_v149"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v115" vertex3="schetchik-Polietilen_v116"/>
+             <triangular vertex1="schetchik-Polietilen_v149" vertex2="schetchik-Polietilen_v116" vertex3="schetchik-Polietilen_v117"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="schetchik-Polietilen">
+            <materialref ref="Polietilen"/>
+            <solidref ref="schetchik-Polietilen-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="schetchik-Polietilen"/>
+    </setup>
+</gdml>

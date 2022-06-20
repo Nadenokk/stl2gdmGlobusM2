@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="Worl1_v0" unit="mm" x="-1000.0" y="22800.0" z="-3000.0"/>
+        <position name="Worl1_v1" unit="mm" x="-1000.0" y="-200.0" z="-3000.0"/>
+        <position name="Worl1_v2" unit="mm" x="-1000.0" y="-200.0" z="12000.0"/>
+        <position name="Worl1_v3" unit="mm" x="-1000.0" y="22800.0" z="12000.0"/>
+        <position name="Worl1_v4" unit="mm" x="15000.0" y="22800.0" z="-3000.0"/>
+        <position name="Worl1_v5" unit="mm" x="15000.0" y="-200.0" z="12000.0"/>
+        <position name="Worl1_v6" unit="mm" x="15000.0" y="-200.0" z="-3000.0"/>
+        <position name="Worl1_v7" unit="mm" x="15000.0" y="22800.0" z="12000.0"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="Worl1-SOL">
+             <triangular vertex1="Worl1_v0" vertex2="Worl1_v1" vertex3="Worl1_v2"/>
+             <triangular vertex1="Worl1_v3" vertex2="Worl1_v0" vertex3="Worl1_v2"/>
+             <triangular vertex1="Worl1_v4" vertex2="Worl1_v5" vertex3="Worl1_v6"/>
+             <triangular vertex1="Worl1_v7" vertex2="Worl1_v5" vertex3="Worl1_v4"/>
+             <triangular vertex1="Worl1_v2" vertex2="Worl1_v1" vertex3="Worl1_v6"/>
+             <triangular vertex1="Worl1_v2" vertex2="Worl1_v6" vertex3="Worl1_v5"/>
+             <triangular vertex1="Worl1_v3" vertex2="Worl1_v4" vertex3="Worl1_v0"/>
+             <triangular vertex1="Worl1_v3" vertex2="Worl1_v7" vertex3="Worl1_v4"/>
+             <triangular vertex1="Worl1_v6" vertex2="Worl1_v1" vertex3="Worl1_v0"/>
+             <triangular vertex1="Worl1_v6" vertex2="Worl1_v0" vertex3="Worl1_v4"/>
+             <triangular vertex1="Worl1_v5" vertex2="Worl1_v3" vertex3="Worl1_v2"/>
+             <triangular vertex1="Worl1_v5" vertex2="Worl1_v7" vertex3="Worl1_v3"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="Worl1">
+            <materialref ref="Vacuum"/>
+            <solidref ref="Worl1-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="Worl1"/>
+    </setup>
+</gdml>

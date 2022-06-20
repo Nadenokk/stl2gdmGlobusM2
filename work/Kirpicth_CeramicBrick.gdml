@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="Kirpicth_CeramicBrick_v0" unit="mm" x="4019.999023" y="8350.0" z="14991.650391"/>
+        <position name="Kirpicth_CeramicBrick_v1" unit="mm" x="1519.999023" y="8350.0" z="14991.650391"/>
+        <position name="Kirpicth_CeramicBrick_v2" unit="mm" x="4019.999023" y="9910.0" z="14991.650391"/>
+        <position name="Kirpicth_CeramicBrick_v3" unit="mm" x="1519.999023" y="9910.0" z="14991.650391"/>
+        <position name="Kirpicth_CeramicBrick_v4" unit="mm" x="1519.999023" y="8350.0" z="15111.650391"/>
+        <position name="Kirpicth_CeramicBrick_v5" unit="mm" x="1519.999023" y="9910.0" z="15111.650391"/>
+        <position name="Kirpicth_CeramicBrick_v6" unit="mm" x="4019.999023" y="8350.0" z="15111.650391"/>
+        <position name="Kirpicth_CeramicBrick_v7" unit="mm" x="4019.999023" y="9910.0" z="15111.650391"/>
+        <position name="Kirpicth_CeramicBrick_v8" unit="mm" x="80.0" y="8800.0" z="5416.649902"/>
+        <position name="Kirpicth_CeramicBrick_v9" unit="mm" x="80.0" y="8800.0" z="4916.649902"/>
+        <position name="Kirpicth_CeramicBrick_v10" unit="mm" x="200.0" y="8800.0" z="5416.649902"/>
+        <position name="Kirpicth_CeramicBrick_v11" unit="mm" x="200.0" y="8800.0" z="4916.649902"/>
+        <position name="Kirpicth_CeramicBrick_v12" unit="mm" x="80.0" y="9300.0" z="5416.649902"/>
+        <position name="Kirpicth_CeramicBrick_v13" unit="mm" x="200.0" y="9300.0" z="5416.649902"/>
+        <position name="Kirpicth_CeramicBrick_v14" unit="mm" x="80.0" y="9300.0" z="4916.649902"/>
+        <position name="Kirpicth_CeramicBrick_v15" unit="mm" x="200.0" y="9300.0" z="4916.649902"/>
+        <position name="Kirpicth_CeramicBrick_v16" unit="mm" x="80.0" y="9300.0" z="3416.649658"/>
+        <position name="Kirpicth_CeramicBrick_v17" unit="mm" x="80.0" y="8800.0" z="3416.649658"/>
+        <position name="Kirpicth_CeramicBrick_v18" unit="mm" x="200.0" y="9300.0" z="3416.649658"/>
+        <position name="Kirpicth_CeramicBrick_v19" unit="mm" x="200.0" y="8800.0" z="3416.649658"/>
+        <position name="Kirpicth_CeramicBrick_v20" unit="mm" x="80.0" y="9300.0" z="2916.649658"/>
+        <position name="Kirpicth_CeramicBrick_v21" unit="mm" x="200.0" y="9300.0" z="2916.649658"/>
+        <position name="Kirpicth_CeramicBrick_v22" unit="mm" x="80.0" y="8800.0" z="2916.649658"/>
+        <position name="Kirpicth_CeramicBrick_v23" unit="mm" x="200.0" y="8800.0" z="2916.649658"/>
+        <position name="Kirpicth_CeramicBrick_v24" unit="mm" x="200.0" y="8350.0" z="14991.650391"/>
+        <position name="Kirpicth_CeramicBrick_v25" unit="mm" x="200.0" y="8350.0" z="15111.650391"/>
+        <position name="Kirpicth_CeramicBrick_v26" unit="mm" x="200.0" y="9910.0" z="14991.650391"/>
+        <position name="Kirpicth_CeramicBrick_v27" unit="mm" x="200.0" y="9910.0" z="15111.650391"/>
+        <position name="Kirpicth_CeramicBrick_v28" unit="mm" x="990.0" y="8350.0" z="15111.650391"/>
+        <position name="Kirpicth_CeramicBrick_v29" unit="mm" x="990.0" y="9910.0" z="15111.650391"/>
+        <position name="Kirpicth_CeramicBrick_v30" unit="mm" x="990.0" y="8350.0" z="14991.650391"/>
+        <position name="Kirpicth_CeramicBrick_v31" unit="mm" x="990.0" y="9910.0" z="14991.650391"/>
+        <position name="Kirpicth_CeramicBrick_v32" unit="mm" x="21320.0" y="8800.0" z="9791.650391"/>
+        <position name="Kirpicth_CeramicBrick_v33" unit="mm" x="21320.0" y="8800.0" z="10191.650391"/>
+        <position name="Kirpicth_CeramicBrick_v34" unit="mm" x="21200.0" y="8800.0" z="9791.650391"/>
+        <position name="Kirpicth_CeramicBrick_v35" unit="mm" x="21200.0" y="8800.0" z="10191.650391"/>
+        <position name="Kirpicth_CeramicBrick_v36" unit="mm" x="21320.0" y="9200.0" z="9791.650391"/>
+        <position name="Kirpicth_CeramicBrick_v37" unit="mm" x="21200.0" y="9200.0" z="9791.650391"/>
+        <position name="Kirpicth_CeramicBrick_v38" unit="mm" x="21320.0" y="9200.0" z="10191.650391"/>
+        <position name="Kirpicth_CeramicBrick_v39" unit="mm" x="21200.0" y="9200.0" z="10191.650391"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="Kirpicth_CeramicBrick-SOL">
+             <triangular vertex1="Kirpicth_CeramicBrick_v0" vertex2="Kirpicth_CeramicBrick_v1" vertex3="Kirpicth_CeramicBrick_v2"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v2" vertex2="Kirpicth_CeramicBrick_v1" vertex3="Kirpicth_CeramicBrick_v3"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v1" vertex2="Kirpicth_CeramicBrick_v4" vertex3="Kirpicth_CeramicBrick_v3"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v3" vertex2="Kirpicth_CeramicBrick_v4" vertex3="Kirpicth_CeramicBrick_v5"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v4" vertex2="Kirpicth_CeramicBrick_v6" vertex3="Kirpicth_CeramicBrick_v5"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v5" vertex2="Kirpicth_CeramicBrick_v6" vertex3="Kirpicth_CeramicBrick_v7"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v6" vertex2="Kirpicth_CeramicBrick_v0" vertex3="Kirpicth_CeramicBrick_v7"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v7" vertex2="Kirpicth_CeramicBrick_v0" vertex3="Kirpicth_CeramicBrick_v2"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v6" vertex2="Kirpicth_CeramicBrick_v4" vertex3="Kirpicth_CeramicBrick_v0"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v0" vertex2="Kirpicth_CeramicBrick_v4" vertex3="Kirpicth_CeramicBrick_v1"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v5" vertex2="Kirpicth_CeramicBrick_v7" vertex3="Kirpicth_CeramicBrick_v3"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v3" vertex2="Kirpicth_CeramicBrick_v7" vertex3="Kirpicth_CeramicBrick_v2"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v8" vertex2="Kirpicth_CeramicBrick_v9" vertex3="Kirpicth_CeramicBrick_v10"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v10" vertex2="Kirpicth_CeramicBrick_v9" vertex3="Kirpicth_CeramicBrick_v11"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v12" vertex2="Kirpicth_CeramicBrick_v8" vertex3="Kirpicth_CeramicBrick_v13"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v13" vertex2="Kirpicth_CeramicBrick_v8" vertex3="Kirpicth_CeramicBrick_v10"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v14" vertex2="Kirpicth_CeramicBrick_v12" vertex3="Kirpicth_CeramicBrick_v15"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v15" vertex2="Kirpicth_CeramicBrick_v12" vertex3="Kirpicth_CeramicBrick_v13"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v9" vertex2="Kirpicth_CeramicBrick_v14" vertex3="Kirpicth_CeramicBrick_v11"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v11" vertex2="Kirpicth_CeramicBrick_v14" vertex3="Kirpicth_CeramicBrick_v15"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v12" vertex2="Kirpicth_CeramicBrick_v14" vertex3="Kirpicth_CeramicBrick_v8"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v8" vertex2="Kirpicth_CeramicBrick_v14" vertex3="Kirpicth_CeramicBrick_v9"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v15" vertex2="Kirpicth_CeramicBrick_v13" vertex3="Kirpicth_CeramicBrick_v11"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v11" vertex2="Kirpicth_CeramicBrick_v13" vertex3="Kirpicth_CeramicBrick_v10"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v16" vertex2="Kirpicth_CeramicBrick_v17" vertex3="Kirpicth_CeramicBrick_v18"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v18" vertex2="Kirpicth_CeramicBrick_v17" vertex3="Kirpicth_CeramicBrick_v19"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v20" vertex2="Kirpicth_CeramicBrick_v16" vertex3="Kirpicth_CeramicBrick_v21"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v21" vertex2="Kirpicth_CeramicBrick_v16" vertex3="Kirpicth_CeramicBrick_v18"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v22" vertex2="Kirpicth_CeramicBrick_v20" vertex3="Kirpicth_CeramicBrick_v23"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v23" vertex2="Kirpicth_CeramicBrick_v20" vertex3="Kirpicth_CeramicBrick_v21"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v17" vertex2="Kirpicth_CeramicBrick_v22" vertex3="Kirpicth_CeramicBrick_v19"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v19" vertex2="Kirpicth_CeramicBrick_v22" vertex3="Kirpicth_CeramicBrick_v23"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v20" vertex2="Kirpicth_CeramicBrick_v22" vertex3="Kirpicth_CeramicBrick_v16"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v16" vertex2="Kirpicth_CeramicBrick_v22" vertex3="Kirpicth_CeramicBrick_v17"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v23" vertex2="Kirpicth_CeramicBrick_v21" vertex3="Kirpicth_CeramicBrick_v19"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v19" vertex2="Kirpicth_CeramicBrick_v21" vertex3="Kirpicth_CeramicBrick_v18"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v24" vertex2="Kirpicth_CeramicBrick_v25" vertex3="Kirpicth_CeramicBrick_v26"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v26" vertex2="Kirpicth_CeramicBrick_v25" vertex3="Kirpicth_CeramicBrick_v27"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v25" vertex2="Kirpicth_CeramicBrick_v28" vertex3="Kirpicth_CeramicBrick_v27"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v27" vertex2="Kirpicth_CeramicBrick_v28" vertex3="Kirpicth_CeramicBrick_v29"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v28" vertex2="Kirpicth_CeramicBrick_v30" vertex3="Kirpicth_CeramicBrick_v29"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v29" vertex2="Kirpicth_CeramicBrick_v30" vertex3="Kirpicth_CeramicBrick_v31"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v30" vertex2="Kirpicth_CeramicBrick_v24" vertex3="Kirpicth_CeramicBrick_v31"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v31" vertex2="Kirpicth_CeramicBrick_v24" vertex3="Kirpicth_CeramicBrick_v26"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v30" vertex2="Kirpicth_CeramicBrick_v28" vertex3="Kirpicth_CeramicBrick_v24"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v24" vertex2="Kirpicth_CeramicBrick_v28" vertex3="Kirpicth_CeramicBrick_v25"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v31" vertex2="Kirpicth_CeramicBrick_v26" vertex3="Kirpicth_CeramicBrick_v29"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v29" vertex2="Kirpicth_CeramicBrick_v26" vertex3="Kirpicth_CeramicBrick_v27"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v32" vertex2="Kirpicth_CeramicBrick_v33" vertex3="Kirpicth_CeramicBrick_v34"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v34" vertex2="Kirpicth_CeramicBrick_v33" vertex3="Kirpicth_CeramicBrick_v35"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v36" vertex2="Kirpicth_CeramicBrick_v32" vertex3="Kirpicth_CeramicBrick_v37"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v37" vertex2="Kirpicth_CeramicBrick_v32" vertex3="Kirpicth_CeramicBrick_v34"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v38" vertex2="Kirpicth_CeramicBrick_v36" vertex3="Kirpicth_CeramicBrick_v39"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v39" vertex2="Kirpicth_CeramicBrick_v36" vertex3="Kirpicth_CeramicBrick_v37"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v33" vertex2="Kirpicth_CeramicBrick_v38" vertex3="Kirpicth_CeramicBrick_v35"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v35" vertex2="Kirpicth_CeramicBrick_v38" vertex3="Kirpicth_CeramicBrick_v39"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v36" vertex2="Kirpicth_CeramicBrick_v38" vertex3="Kirpicth_CeramicBrick_v32"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v32" vertex2="Kirpicth_CeramicBrick_v38" vertex3="Kirpicth_CeramicBrick_v33"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v39" vertex2="Kirpicth_CeramicBrick_v37" vertex3="Kirpicth_CeramicBrick_v35"/>
+             <triangular vertex1="Kirpicth_CeramicBrick_v35" vertex2="Kirpicth_CeramicBrick_v37" vertex3="Kirpicth_CeramicBrick_v34"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="Kirpicth_CeramicBrick">
+            <materialref ref="CeramicBrick"/>
+            <solidref ref="Kirpicth_CeramicBrick-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="Kirpicth_CeramicBrick"/>
+    </setup>
+</gdml>

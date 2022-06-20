@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/projects/soft/ext/sources/geant4.10.06.p01/environments/g4py/examples/gdml/GDMLSchema/gdml.xsd">
+
+    <define>
+        <position name="W_Ground_v0" unit="mm" x="-500.0" y="22200.0" z="-15000.0"/>
+        <position name="W_Ground_v1" unit="mm" x="-500.0" y="200.0" z="-15000.0"/>
+        <position name="W_Ground_v2" unit="mm" x="-500.0" y="200.0" z="0.0"/>
+        <position name="W_Ground_v3" unit="mm" x="-500.0" y="22200.0" z="0.0"/>
+        <position name="W_Ground_v4" unit="mm" x="14500.0" y="22200.0" z="-15000.0"/>
+        <position name="W_Ground_v5" unit="mm" x="14500.0" y="200.0" z="0.0"/>
+        <position name="W_Ground_v6" unit="mm" x="14500.0" y="200.0" z="-15000.0"/>
+        <position name="W_Ground_v7" unit="mm" x="14500.0" y="22200.0" z="0.0"/>
+    </define>
+
+    <materials>
+        <element name="videRef"    formula="VACUUM" Z="1"> <atom value="1."/>       </element>
+        <material formula=" " name="Vacuum">
+            <D value="1.e-25" unit="g/cm3" />
+            <fraction n="1.0" ref="videRef" />
+        </material>
+    </materials>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="W_Ground-SOL">
+             <triangular vertex1="W_Ground_v0" vertex2="W_Ground_v1" vertex3="W_Ground_v2"/>
+             <triangular vertex1="W_Ground_v3" vertex2="W_Ground_v0" vertex3="W_Ground_v2"/>
+             <triangular vertex1="W_Ground_v4" vertex2="W_Ground_v5" vertex3="W_Ground_v6"/>
+             <triangular vertex1="W_Ground_v7" vertex2="W_Ground_v5" vertex3="W_Ground_v4"/>
+             <triangular vertex1="W_Ground_v1" vertex2="W_Ground_v6" vertex3="W_Ground_v2"/>
+             <triangular vertex1="W_Ground_v2" vertex2="W_Ground_v6" vertex3="W_Ground_v5"/>
+             <triangular vertex1="W_Ground_v0" vertex2="W_Ground_v3" vertex3="W_Ground_v4"/>
+             <triangular vertex1="W_Ground_v3" vertex2="W_Ground_v7" vertex3="W_Ground_v4"/>
+             <triangular vertex1="W_Ground_v1" vertex2="W_Ground_v0" vertex3="W_Ground_v4"/>
+             <triangular vertex1="W_Ground_v6" vertex2="W_Ground_v1" vertex3="W_Ground_v4"/>
+             <triangular vertex1="W_Ground_v2" vertex2="W_Ground_v7" vertex3="W_Ground_v3"/>
+             <triangular vertex1="W_Ground_v5" vertex2="W_Ground_v7" vertex3="W_Ground_v2"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="W_Ground">
+            <materialref ref="Ground"/>
+            <solidref ref="W_Ground-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="W_Ground"/>
+    </setup>
+</gdml>
